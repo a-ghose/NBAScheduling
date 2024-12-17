@@ -1,0 +1,1567 @@
+Status: FEASIBLE
+Scheduled Games:
+Date 1:
+  Brooklyn Nets vs Miami Heat
+  Charlotte Hornets vs Atlanta Hawks
+  Dallas Mavericks vs Utah Jazz
+  Indiana Pacers vs Portland Trail Blazers
+  Los Angeles Lakers vs Golden State Warriors
+  Milwaukee Bucks vs Memphis Grizzlies
+  Minnesota Timberwolves vs Cleveland Cavaliers
+  New Orleans Pelicans vs Detroit Pistons
+  New York Knicks vs Los Angeles Clippers
+  Orlando Magic vs Boston Celtics
+  San Antonio Spurs vs Denver Nuggets
+  Washington Wizards vs Chicago Bulls
+Date 2:
+  Oklahoma City Thunder vs Phoenix Suns
+  Philadelphia 76ers vs Houston Rockets
+  Toronto Raptors vs Chicago Bulls
+Date 3:
+  Boston Celtics vs Golden State Warriors
+  Brooklyn Nets vs Utah Jazz
+  Charlotte Hornets vs Denver Nuggets
+  Cleveland Cavaliers vs New Orleans Pelicans
+  Indiana Pacers vs Miami Heat
+  Los Angeles Clippers vs Minnesota Timberwolves
+  Los Angeles Lakers vs Dallas Mavericks
+  New York Knicks vs Detroit Pistons
+  Portland Trail Blazers vs Memphis Grizzlies
+  Sacramento Kings vs Orlando Magic
+  San Antonio Spurs vs Atlanta Hawks
+Date 4:
+  Milwaukee Bucks vs Oklahoma City Thunder
+  Phoenix Suns vs Philadelphia 76ers
+  Toronto Raptors vs Chicago Bulls
+Date 5:
+  Atlanta Hawks vs Orlando Magic
+  Cleveland Cavaliers vs Boston Celtics
+  Dallas Mavericks vs Houston Rockets
+  Golden State Warriors vs San Antonio Spurs
+  Indiana Pacers vs Sacramento Kings
+  Los Angeles Lakers vs Los Angeles Clippers
+  Miami Heat vs Denver Nuggets
+  Portland Trail Blazers vs Brooklyn Nets
+  Utah Jazz vs Minnesota Timberwolves
+  Washington Wizards vs Charlotte Hornets
+Date 6:
+  Milwaukee Bucks vs Toronto Raptors
+  New York Knicks vs Detroit Pistons
+  Oklahoma City Thunder vs New Orleans Pelicans
+  Philadelphia 76ers vs Miami Heat
+  Phoenix Suns vs Memphis Grizzlies
+  Washington Wizards vs Chicago Bulls
+Date 7:
+  Boston Celtics vs Atlanta Hawks
+  Brooklyn Nets vs Portland Trail Blazers
+  Charlotte Hornets vs New Orleans Pelicans
+  Cleveland Cavaliers vs Memphis Grizzlies
+  Denver Nuggets vs Orlando Magic
+  Houston Rockets vs Sacramento Kings
+  Indiana Pacers vs Utah Jazz
+  Los Angeles Lakers vs Minnesota Timberwolves
+  San Antonio Spurs vs Golden State Warriors
+Date 8:
+  Chicago Bulls vs Miami Heat
+  Milwaukee Bucks vs Oklahoma City Thunder
+  New York Knicks vs Detroit Pistons
+  Phoenix Suns vs Philadelphia 76ers
+  Washington Wizards vs Dallas Mavericks
+Date 9:
+  Charlotte Hornets vs Brooklyn Nets
+  Denver Nuggets vs Indiana Pacers
+  Golden State Warriors vs Utah Jazz
+  Los Angeles Lakers vs Cleveland Cavaliers
+  Memphis Grizzlies vs New Orleans Pelicans
+  Minnesota Timberwolves vs Los Angeles Clippers
+  Orlando Magic vs Sacramento Kings
+  Portland Trail Blazers vs Atlanta Hawks
+  San Antonio Spurs vs Chicago Bulls
+Date 10:
+  Dallas Mavericks vs Toronto Raptors
+  Oklahoma City Thunder vs New York Knicks
+  Philadelphia 76ers vs Houston Rockets
+  Phoenix Suns vs Detroit Pistons
+Date 11:
+  Boston Celtics vs Atlanta Hawks
+  Charlotte Hornets vs Washington Wizards
+  Cleveland Cavaliers vs Brooklyn Nets
+  Golden State Warriors vs Chicago Bulls
+  Los Angeles Lakers vs San Antonio Spurs
+  Miami Heat vs New Orleans Pelicans
+  Minnesota Timberwolves vs Los Angeles Clippers
+  Portland Trail Blazers vs Milwaukee Bucks
+  Utah Jazz vs Sacramento Kings
+Date 12:
+  Dallas Mavericks vs Philadelphia 76ers
+  Houston Rockets vs New York Knicks
+  Indiana Pacers vs Orlando Magic
+  Los Angeles Lakers vs Phoenix Suns
+  Oklahoma City Thunder vs Memphis Grizzlies
+  Toronto Raptors vs Denver Nuggets
+Date 13:
+  Brooklyn Nets vs Minnesota Timberwolves
+  Chicago Bulls vs Charlotte Hornets
+  Detroit Pistons vs Milwaukee Bucks
+  New Orleans Pelicans vs Boston Celtics
+  Sacramento Kings vs San Antonio Spurs
+  Toronto Raptors vs Atlanta Hawks
+  Utah Jazz vs Cleveland Cavaliers
+  Washington Wizards vs Portland Trail Blazers
+Date 14:
+  Charlotte Hornets vs Denver Nuggets
+  Dallas Mavericks vs Philadelphia 76ers
+  Houston Rockets vs Memphis Grizzlies
+  Indiana Pacers vs Los Angeles Lakers
+  Miami Heat vs Los Angeles Clippers
+  New York Knicks vs Golden State Warriors
+Date 15:
+  Chicago Bulls vs Toronto Raptors
+  Oklahoma City Thunder vs Detroit Pistons
+  Phoenix Suns vs Portland Trail Blazers
+  Sacramento Kings vs Brooklyn Nets
+  San Antonio Spurs vs New Orleans Pelicans
+  Utah Jazz vs Cleveland Cavaliers
+  Washington Wizards vs Orlando Magic
+Date 16:
+  Dallas Mavericks vs Milwaukee Bucks
+  Golden State Warriors vs Boston Celtics
+  Houston Rockets vs Minnesota Timberwolves
+  Los Angeles Lakers vs Indiana Pacers
+  Memphis Grizzlies vs Los Angeles Clippers
+  New York Knicks vs Denver Nuggets
+  Philadelphia 76ers vs Atlanta Hawks
+Date 17:
+  Oklahoma City Thunder vs Miami Heat
+  Orlando Magic vs Phoenix Suns
+  Sacramento Kings vs Cleveland Cavaliers
+  San Antonio Spurs vs Brooklyn Nets
+  Toronto Raptors vs Charlotte Hornets
+  Utah Jazz vs Portland Trail Blazers
+  Washington Wizards vs Chicago Bulls
+Date 18:
+  Atlanta Hawks vs Washington Wizards
+  Dallas Mavericks vs Boston Celtics
+  Denver Nuggets vs San Antonio Spurs
+  Golden State Warriors vs Philadelphia 76ers
+  Indiana Pacers vs Houston Rockets
+  Minnesota Timberwolves vs Milwaukee Bucks
+  New Orleans Pelicans vs Los Angeles Lakers
+  Oklahoma City Thunder vs Memphis Grizzlies
+Date 19:
+  Brooklyn Nets vs Utah Jazz
+  Charlotte Hornets vs Portland Trail Blazers
+  Chicago Bulls vs Los Angeles Clippers
+  Detroit Pistons vs Sacramento Kings
+  Orlando Magic vs Houston Rockets
+  Phoenix Suns vs Miami Heat
+  Toronto Raptors vs Cleveland Cavaliers
+Date 20:
+  Boston Celtics vs Atlanta Hawks
+  Denver Nuggets vs Indiana Pacers
+  Houston Rockets vs Oklahoma City Thunder
+  Los Angeles Lakers vs Golden State Warriors
+  Memphis Grizzlies vs New York Knicks
+  Milwaukee Bucks vs New Orleans Pelicans
+  Minnesota Timberwolves vs Dallas Mavericks
+  Philadelphia 76ers vs Washington Wizards
+Date 21:
+  Charlotte Hornets vs Sacramento Kings
+  Detroit Pistons vs Cleveland Cavaliers
+  Los Angeles Clippers vs Los Angeles Lakers
+  Orlando Magic vs Denver Nuggets
+  Phoenix Suns vs San Antonio Spurs
+  Portland Trail Blazers vs New York Knicks
+  Toronto Raptors vs Brooklyn Nets
+  Utah Jazz vs Miami Heat
+  Washington Wizards vs Chicago Bulls
+Date 22:
+  Atlanta Hawks vs Minnesota Timberwolves
+  Dallas Mavericks vs Boston Celtics
+  Golden State Warriors vs Cleveland Cavaliers
+  Memphis Grizzlies vs Philadelphia 76ers
+  Milwaukee Bucks vs Oklahoma City Thunder
+  New Orleans Pelicans vs Houston Rockets
+  Toronto Raptors vs Indiana Pacers
+Date 23:
+  Brooklyn Nets vs Phoenix Suns
+  Los Angeles Clippers vs Detroit Pistons
+  Los Angeles Lakers vs Orlando Magic
+  Miami Heat vs Sacramento Kings
+  Portland Trail Blazers vs Minnesota Timberwolves
+  San Antonio Spurs vs Charlotte Hornets
+  Washington Wizards vs Chicago Bulls
+Date 24:
+  Houston Rockets vs Denver Nuggets
+  Los Angeles Clippers vs Indiana Pacers
+  Miami Heat vs New Orleans Pelicans
+  Philadelphia 76ers vs Atlanta Hawks
+  Toronto Raptors vs Cleveland Cavaliers
+  Utah Jazz vs Oklahoma City Thunder
+Date 25:
+  Boston Celtics vs Sacramento Kings
+  Denver Nuggets vs Orlando Magic
+  Golden State Warriors vs Brooklyn Nets
+  Milwaukee Bucks vs Los Angeles Lakers
+  New York Knicks vs Minnesota Timberwolves
+  Phoenix Suns vs Dallas Mavericks
+  Portland Trail Blazers vs Washington Wizards
+  San Antonio Spurs vs Charlotte Hornets
+Date 26:
+  Atlanta Hawks vs Portland Trail Blazers
+  Cleveland Cavaliers vs Houston Rockets
+  Memphis Grizzlies vs Los Angeles Clippers
+  Miami Heat vs Toronto Raptors
+  New Orleans Pelicans vs Detroit Pistons
+  Philadelphia 76ers vs Chicago Bulls
+Date 27:
+  Charlotte Hornets vs Denver Nuggets
+  Dallas Mavericks vs New York Knicks
+  Golden State Warriors vs Indiana Pacers
+  Los Angeles Lakers vs Utah Jazz
+  Milwaukee Bucks vs Oklahoma City Thunder
+  Phoenix Suns vs Brooklyn Nets
+  San Antonio Spurs vs Minnesota Timberwolves
+  Washington Wizards vs Sacramento Kings
+Date 28:
+  Boston Celtics vs Detroit Pistons
+  Cleveland Cavaliers vs Houston Rockets
+  Memphis Grizzlies vs Orlando Magic
+  Miami Heat vs Los Angeles Clippers
+  New Orleans Pelicans vs Toronto Raptors
+  Portland Trail Blazers vs Atlanta Hawks
+Date 29:
+  Denver Nuggets vs Indiana Pacers
+  Los Angeles Lakers vs Minnesota Timberwolves
+  New York Knicks vs Dallas Mavericks
+  Oklahoma City Thunder vs Chicago Bulls
+  Philadelphia 76ers vs Golden State Warriors
+  Utah Jazz vs Charlotte Hornets
+  Washington Wizards vs Milwaukee Bucks
+Date 30:
+  Atlanta Hawks vs Cleveland Cavaliers
+  Brooklyn Nets vs Miami Heat
+  Chicago Bulls vs Detroit Pistons
+  Orlando Magic vs Memphis Grizzlies
+  Portland Trail Blazers vs Los Angeles Clippers
+  Sacramento Kings vs Boston Celtics
+  San Antonio Spurs vs New Orleans Pelicans
+  Toronto Raptors vs Phoenix Suns
+Date 31:
+  Denver Nuggets vs Milwaukee Bucks
+  Golden State Warriors vs Charlotte Hornets
+  Los Angeles Lakers vs Minnesota Timberwolves
+  Memphis Grizzlies vs Houston Rockets
+  Utah Jazz vs Indiana Pacers
+Date 32:
+  Brooklyn Nets vs Phoenix Suns
+  Chicago Bulls vs Atlanta Hawks
+  Cleveland Cavaliers vs Golden State Warriors
+  Detroit Pistons vs Sacramento Kings
+  Los Angeles Clippers vs Los Angeles Lakers
+  New Orleans Pelicans vs New York Knicks
+  Oklahoma City Thunder vs Portland Trail Blazers
+  Orlando Magic vs Boston Celtics
+  Philadelphia 76ers vs Toronto Raptors
+  San Antonio Spurs vs Miami Heat
+  Washington Wizards vs Dallas Mavericks
+Date 33:
+  Denver Nuggets vs Milwaukee Bucks
+  Houston Rockets vs Memphis Grizzlies
+  Indiana Pacers vs Utah Jazz
+  New Orleans Pelicans vs Charlotte Hornets
+Date 34:
+  Dallas Mavericks vs Portland Trail Blazers
+  Los Angeles Clippers vs Cleveland Cavaliers
+  Minnesota Timberwolves vs Phoenix Suns
+  Oklahoma City Thunder vs Chicago Bulls
+  Orlando Magic vs Washington Wizards
+  Philadelphia 76ers vs Golden State Warriors
+  Sacramento Kings vs Brooklyn Nets
+  San Antonio Spurs vs Detroit Pistons
+  Toronto Raptors vs Los Angeles Lakers
+Date 35:
+  Charlotte Hornets vs Sacramento Kings
+  Denver Nuggets vs Dallas Mavericks
+  Indiana Pacers vs Houston Rockets
+  Miami Heat vs Atlanta Hawks
+  New Orleans Pelicans vs Memphis Grizzlies
+  New York Knicks vs Boston Celtics
+  Utah Jazz vs Orlando Magic
+Date 36:
+  Chicago Bulls vs Milwaukee Bucks
+  Golden State Warriors vs Dallas Mavericks
+  Minnesota Timberwolves vs Washington Wizards
+  Phoenix Suns vs Brooklyn Nets
+  Portland Trail Blazers vs Cleveland Cavaliers
+  San Antonio Spurs vs Philadelphia 76ers
+  Toronto Raptors vs Los Angeles Clippers
+Date 37:
+  Atlanta Hawks vs Sacramento Kings
+  Denver Nuggets vs Indiana Pacers
+  Houston Rockets vs Orlando Magic
+  Los Angeles Lakers vs Detroit Pistons
+  Memphis Grizzlies vs Miami Heat
+  New York Knicks vs Boston Celtics
+  Oklahoma City Thunder vs Charlotte Hornets
+  Washington Wizards vs Utah Jazz
+Date 38:
+  Dallas Mavericks vs Milwaukee Bucks
+  Los Angeles Clippers vs San Antonio Spurs
+  Minnesota Timberwolves vs Portland Trail Blazers
+  New Orleans Pelicans vs Houston Rockets
+  New York Knicks vs Golden State Warriors
+  Toronto Raptors vs Brooklyn Nets
+Date 39:
+  Boston Celtics vs Atlanta Hawks
+  Charlotte Hornets vs Denver Nuggets
+  Houston Rockets vs Memphis Grizzlies
+  Indiana Pacers vs Los Angeles Lakers
+  Miami Heat vs Cleveland Cavaliers
+  Phoenix Suns vs Philadelphia 76ers
+  Washington Wizards vs Chicago Bulls
+Date 40:
+  Brooklyn Nets vs Utah Jazz
+  Dallas Mavericks vs Golden State Warriors
+  New Orleans Pelicans vs Memphis Grizzlies
+  New York Knicks vs Minnesota Timberwolves
+  Orlando Magic vs Detroit Pistons
+  Portland Trail Blazers vs Oklahoma City Thunder
+  Sacramento Kings vs Los Angeles Clippers
+  Toronto Raptors vs Milwaukee Bucks
+Date 41:
+  Chicago Bulls vs Washington Wizards
+  Denver Nuggets vs Indiana Pacers
+  Los Angeles Lakers vs Miami Heat
+  Phoenix Suns vs Philadelphia 76ers
+  San Antonio Spurs vs Boston Celtics
+Date 42:
+  Brooklyn Nets vs Minnesota Timberwolves
+  Dallas Mavericks vs Houston Rockets
+  Los Angeles Clippers vs Cleveland Cavaliers
+  Milwaukee Bucks vs Detroit Pistons
+  New Orleans Pelicans vs Sacramento Kings
+  New York Knicks vs Memphis Grizzlies
+  Oklahoma City Thunder vs Atlanta Hawks
+  Orlando Magic vs Phoenix Suns
+  Portland Trail Blazers vs Denver Nuggets
+  Toronto Raptors vs Charlotte Hornets
+  Utah Jazz vs Miami Heat
+Date 43:
+  Golden State Warriors vs Indiana Pacers
+  Philadelphia 76ers vs Boston Celtics
+  Washington Wizards vs Detroit Pistons
+Date 44:
+  Charlotte Hornets vs Denver Nuggets
+  Golden State Warriors vs New York Knicks
+  Los Angeles Clippers vs Miami Heat
+  Memphis Grizzlies vs Milwaukee Bucks
+  Minnesota Timberwolves vs Oklahoma City Thunder
+  Orlando Magic vs Chicago Bulls
+  Sacramento Kings vs Dallas Mavericks
+  San Antonio Spurs vs Brooklyn Nets
+  Toronto Raptors vs Los Angeles Lakers
+  Utah Jazz vs Phoenix Suns
+Date 45:
+  Atlanta Hawks vs Portland Trail Blazers
+  Cleveland Cavaliers vs Washington Wizards
+  Detroit Pistons vs Houston Rockets
+  Indiana Pacers vs Brooklyn Nets
+  Memphis Grizzlies vs New Orleans Pelicans
+  Philadelphia 76ers vs Boston Celtics
+Date 46:
+  Brooklyn Nets vs Oklahoma City Thunder
+  Charlotte Hornets vs Denver Nuggets
+  Golden State Warriors vs Los Angeles Lakers
+  Los Angeles Clippers vs Minnesota Timberwolves
+  Milwaukee Bucks vs San Antonio Spurs
+  New York Knicks vs Dallas Mavericks
+  Orlando Magic vs Miami Heat
+  Sacramento Kings vs Phoenix Suns
+  Toronto Raptors vs Chicago Bulls
+Date 47:
+  Atlanta Hawks vs Utah Jazz
+  Boston Celtics vs Houston Rockets
+  New Orleans Pelicans vs Cleveland Cavaliers
+  Phoenix Suns vs Sacramento Kings
+  Portland Trail Blazers vs Detroit Pistons
+  Washington Wizards vs Philadelphia 76ers
+Date 48:
+  Brooklyn Nets vs San Antonio Spurs
+  Chicago Bulls vs Los Angeles Lakers
+  Denver Nuggets vs Indiana Pacers
+  Memphis Grizzlies vs Golden State Warriors
+  Milwaukee Bucks vs Oklahoma City Thunder
+  Minnesota Timberwolves vs Charlotte Hornets
+  Toronto Raptors vs Orlando Magic
+Date 49:
+  Atlanta Hawks vs New York Knicks
+  Cleveland Cavaliers vs Milwaukee Bucks
+  Los Angeles Clippers vs Washington Wizards
+  Miami Heat vs Houston Rockets
+  New Orleans Pelicans vs Detroit Pistons
+  Philadelphia 76ers vs Boston Celtics
+  Phoenix Suns vs Golden State Warriors
+  Portland Trail Blazers vs Dallas Mavericks
+  Sacramento Kings vs Indiana Pacers
+  Utah Jazz vs Denver Nuggets
+Date 50:
+  Charlotte Hornets vs Minnesota Timberwolves
+  Cleveland Cavaliers vs San Antonio Spurs
+  Oklahoma City Thunder vs Orlando Magic
+  Toronto Raptors vs Brooklyn Nets
+Date 51:
+  Boston Celtics vs New Orleans Pelicans
+  Chicago Bulls vs Detroit Pistons
+  Denver Nuggets vs Indiana Pacers
+  Golden State Warriors vs Los Angeles Lakers
+  Memphis Grizzlies vs Portland Trail Blazers
+  Minnesota Timberwolves vs Milwaukee Bucks
+  New York Knicks vs Atlanta Hawks
+  Philadelphia 76ers vs Los Angeles Clippers
+  Phoenix Suns vs Miami Heat
+  Sacramento Kings vs Washington Wizards
+Date 52:
+  Brooklyn Nets vs Cleveland Cavaliers
+  Milwaukee Bucks vs Oklahoma City Thunder
+  Orlando Magic vs Dallas Mavericks
+  Toronto Raptors vs Houston Rockets
+  Utah Jazz vs Charlotte Hornets
+Date 53:
+  Boston Celtics vs Toronto Raptors
+  Dallas Mavericks vs Minnesota Timberwolves
+  Detroit Pistons vs Sacramento Kings
+  Los Angeles Lakers vs Indiana Pacers
+  Miami Heat vs New Orleans Pelicans
+  New York Knicks vs Chicago Bulls
+  Philadelphia 76ers vs Memphis Grizzlies
+  Phoenix Suns vs San Antonio Spurs
+  Portland Trail Blazers vs Atlanta Hawks
+  Washington Wizards vs Denver Nuggets
+Date 54:
+  Cleveland Cavaliers vs Orlando Magic
+  Los Angeles Clippers vs Golden State Warriors
+  Milwaukee Bucks vs Philadelphia 76ers
+  Oklahoma City Thunder vs Memphis Grizzlies
+  Phoenix Suns vs Charlotte Hornets
+  Utah Jazz vs Brooklyn Nets
+Date 55:
+  Chicago Bulls vs New York Knicks
+  Dallas Mavericks vs Washington Wizards
+  Los Angeles Lakers vs San Antonio Spurs
+  Minnesota Timberwolves vs Portland Trail Blazers
+  New Orleans Pelicans vs Detroit Pistons
+  Sacramento Kings vs Miami Heat
+Date 56:
+  Golden State Warriors vs Oklahoma City Thunder
+  Houston Rockets vs Indiana Pacers
+  Miami Heat vs Portland Trail Blazers
+  Milwaukee Bucks vs Los Angeles Clippers
+  Philadelphia 76ers vs Memphis Grizzlies
+  Phoenix Suns vs Charlotte Hornets
+  Toronto Raptors vs Atlanta Hawks
+  Utah Jazz vs Boston Celtics
+Date 57:
+  Chicago Bulls vs San Antonio Spurs
+  Denver Nuggets vs Portland Trail Blazers
+  New Orleans Pelicans vs Los Angeles Lakers
+  New York Knicks vs Minnesota Timberwolves
+  Orlando Magic vs Detroit Pistons
+  Sacramento Kings vs Phoenix Suns
+  Washington Wizards vs Cleveland Cavaliers
+Date 58:
+  Boston Celtics vs Toronto Raptors
+  Brooklyn Nets vs Golden State Warriors
+  Dallas Mavericks vs Milwaukee Bucks
+  Indiana Pacers vs Los Angeles Clippers
+  Memphis Grizzlies vs Atlanta Hawks
+  Miami Heat vs Utah Jazz
+  Oklahoma City Thunder vs Houston Rockets
+  Philadelphia 76ers vs Chicago Bulls
+Date 59:
+  Charlotte Hornets vs Sacramento Kings
+  Houston Rockets vs New Orleans Pelicans
+  Minnesota Timberwolves vs Orlando Magic
+  New York Knicks vs Detroit Pistons
+  Portland Trail Blazers vs Phoenix Suns
+  San Antonio Spurs vs Cleveland Cavaliers
+  Washington Wizards vs Los Angeles Lakers
+Date 60:
+  Boston Celtics vs Atlanta Hawks
+  Miami Heat vs Washington Wizards
+  Milwaukee Bucks vs Memphis Grizzlies
+  Minnesota Timberwolves vs Dallas Mavericks
+  Orlando Magic vs Utah Jazz
+  Philadelphia 76ers vs Denver Nuggets
+  Toronto Raptors vs Chicago Bulls
+Date 61:
+  Cleveland Cavaliers vs Golden State Warriors
+  Houston Rockets vs Sacramento Kings
+  Los Angeles Lakers vs Los Angeles Clippers
+  New Orleans Pelicans vs San Antonio Spurs
+  Oklahoma City Thunder vs Brooklyn Nets
+  Phoenix Suns vs Detroit Pistons
+  Portland Trail Blazers vs Chicago Bulls
+Date 62:
+  Charlotte Hornets vs New York Knicks
+  Denver Nuggets vs Miami Heat
+  Memphis Grizzlies vs Atlanta Hawks
+  Milwaukee Bucks vs Boston Celtics
+  Minnesota Timberwolves vs Orlando Magic
+  Philadelphia 76ers vs Indiana Pacers
+  Washington Wizards vs Chicago Bulls
+Date 63:
+  Detroit Pistons vs Houston Rockets
+  Milwaukee Bucks vs New Orleans Pelicans
+  Portland Trail Blazers vs Dallas Mavericks
+  Sacramento Kings vs Los Angeles Lakers
+  Toronto Raptors vs Cleveland Cavaliers
+  Utah Jazz vs Brooklyn Nets
+Date 64:
+  Chicago Bulls vs Charlotte Hornets
+  Memphis Grizzlies vs Los Angeles Clippers
+  Miami Heat vs San Antonio Spurs
+  Minnesota Timberwolves vs Orlando Magic
+  New York Knicks vs Denver Nuggets
+  Oklahoma City Thunder vs Atlanta Hawks
+  Phoenix Suns vs Philadelphia 76ers
+  Washington Wizards vs Boston Celtics
+Date 65:
+  Dallas Mavericks vs Memphis Grizzlies
+  Golden State Warriors vs Utah Jazz
+  Houston Rockets vs Sacramento Kings
+  Indiana Pacers vs Boston Celtics
+  Milwaukee Bucks vs Brooklyn Nets
+  New Orleans Pelicans vs Los Angeles Lakers
+  San Antonio Spurs vs Toronto Raptors
+Date 66:
+  Chicago Bulls vs Oklahoma City Thunder
+  Cleveland Cavaliers vs Utah Jazz
+  Denver Nuggets vs Phoenix Suns
+  Los Angeles Clippers vs Miami Heat
+  New Orleans Pelicans vs Washington Wizards
+  New York Knicks vs Detroit Pistons
+  Portland Trail Blazers vs Charlotte Hornets
+Date 67:
+  Atlanta Hawks vs Toronto Raptors
+  Detroit Pistons vs Milwaukee Bucks
+  Memphis Grizzlies vs Brooklyn Nets
+  Minnesota Timberwolves vs Indiana Pacers
+  Orlando Magic vs Sacramento Kings
+  Philadelphia 76ers vs Boston Celtics
+  San Antonio Spurs vs Dallas Mavericks
+  Utah Jazz vs Golden State Warriors
+Date 68:
+  Chicago Bulls vs Los Angeles Lakers
+  Los Angeles Clippers vs Milwaukee Bucks
+  Miami Heat vs Houston Rockets
+  New York Knicks vs Charlotte Hornets
+  Oklahoma City Thunder vs Phoenix Suns
+  Portland Trail Blazers vs Denver Nuggets
+  Washington Wizards vs New Orleans Pelicans
+Date 69:
+  Boston Celtics vs Atlanta Hawks
+  Cleveland Cavaliers vs Golden State Warriors
+  Dallas Mavericks vs Brooklyn Nets
+  Detroit Pistons vs Memphis Grizzlies
+  Minnesota Timberwolves vs Indiana Pacers
+  New York Knicks vs Orlando Magic
+  Utah Jazz vs Toronto Raptors
+Date 70:
+  Detroit Pistons vs Phoenix Suns
+  Los Angeles Clippers vs San Antonio Spurs
+  Milwaukee Bucks vs Oklahoma City Thunder
+  New Orleans Pelicans vs Los Angeles Lakers
+  Philadelphia 76ers vs Washington Wizards
+  Portland Trail Blazers vs Miami Heat
+  Sacramento Kings vs Chicago Bulls
+Date 71:
+  Charlotte Hornets vs Oklahoma City Thunder
+  Cleveland Cavaliers vs Houston Rockets
+  Dallas Mavericks vs Toronto Raptors
+  Denver Nuggets vs Brooklyn Nets
+  Golden State Warriors vs Utah Jazz
+  Indiana Pacers vs Boston Celtics
+  New York Knicks vs Atlanta Hawks
+  Orlando Magic vs Milwaukee Bucks
+Date 72:
+  Memphis Grizzlies vs Los Angeles Clippers
+  Miami Heat vs Los Angeles Lakers
+  New Orleans Pelicans vs New York Knicks
+  Orlando Magic vs Portland Trail Blazers
+  Phoenix Suns vs Philadelphia 76ers
+  Sacramento Kings vs Minnesota Timberwolves
+  San Antonio Spurs vs Detroit Pistons
+Date 73:
+  Charlotte Hornets vs Oklahoma City Thunder
+  Cleveland Cavaliers vs Houston Rockets
+  Dallas Mavericks vs Indiana Pacers
+  Golden State Warriors vs Denver Nuggets
+  Toronto Raptors vs Chicago Bulls
+  Utah Jazz vs Boston Celtics
+  Washington Wizards vs Atlanta Hawks
+Date 74:
+  Brooklyn Nets vs Phoenix Suns
+  Los Angeles Clippers vs Milwaukee Bucks
+  Memphis Grizzlies vs Philadelphia 76ers
+  Miami Heat vs Portland Trail Blazers
+  New Orleans Pelicans vs Sacramento Kings
+  New York Knicks vs Minnesota Timberwolves
+  Orlando Magic vs Los Angeles Lakers
+Date 75:
+  Atlanta Hawks vs New Orleans Pelicans
+  Boston Celtics vs Toronto Raptors
+  Brooklyn Nets vs Cleveland Cavaliers
+  Charlotte Hornets vs Washington Wizards
+  Dallas Mavericks vs Utah Jazz
+  Detroit Pistons vs San Antonio Spurs
+  Indiana Pacers vs Houston Rockets
+  Oklahoma City Thunder vs Chicago Bulls
+Date 76:
+  Charlotte Hornets vs Toronto Raptors
+  Denver Nuggets vs New York Knicks
+  Houston Rockets vs Phoenix Suns
+  Memphis Grizzlies vs Golden State Warriors
+  Minnesota Timberwolves vs Los Angeles Lakers
+  Orlando Magic vs Philadelphia 76ers
+  Portland Trail Blazers vs Milwaukee Bucks
+  Sacramento Kings vs Miami Heat
+Date 77:
+  Atlanta Hawks vs Utah Jazz
+  Boston Celtics vs Chicago Bulls
+  Brooklyn Nets vs San Antonio Spurs
+  Detroit Pistons vs Cleveland Cavaliers
+  New Orleans Pelicans vs Los Angeles Clippers
+Date 78:
+  Atlanta Hawks vs Miami Heat
+  Boston Celtics vs Philadelphia 76ers
+  Brooklyn Nets vs Oklahoma City Thunder
+  Dallas Mavericks vs New Orleans Pelicans
+  Houston Rockets vs Golden State Warriors
+  Memphis Grizzlies vs Charlotte Hornets
+  Minnesota Timberwolves vs Phoenix Suns
+  Portland Trail Blazers vs Orlando Magic
+  San Antonio Spurs vs New York Knicks
+  Toronto Raptors vs Milwaukee Bucks
+Date 79:
+  Cleveland Cavaliers vs Detroit Pistons
+  Denver Nuggets vs Indiana Pacers
+  Los Angeles Lakers vs Chicago Bulls
+  Sacramento Kings vs Los Angeles Clippers
+  Utah Jazz vs Brooklyn Nets
+  Washington Wizards vs Orlando Magic
+Date 80:
+  Charlotte Hornets vs Toronto Raptors
+  Dallas Mavericks vs Golden State Warriors
+  Memphis Grizzlies vs Orlando Magic
+  Miami Heat vs New Orleans Pelicans
+  Minnesota Timberwolves vs Atlanta Hawks
+  New York Knicks vs Boston Celtics
+  Portland Trail Blazers vs Houston Rockets
+  San Antonio Spurs vs Philadelphia 76ers
+Date 81:
+  Chicago Bulls vs New York Knicks
+  Indiana Pacers vs Utah Jazz
+  Los Angeles Clippers vs Sacramento Kings
+  Los Angeles Lakers vs Boston Celtics
+  Milwaukee Bucks vs Oklahoma City Thunder
+  Washington Wizards vs Cleveland Cavaliers
+Date 82:
+  Charlotte Hornets vs Denver Nuggets
+  Detroit Pistons vs Dallas Mavericks
+  Golden State Warriors vs Philadelphia 76ers
+  Houston Rockets vs New Orleans Pelicans
+  Memphis Grizzlies vs San Antonio Spurs
+  Miami Heat vs Atlanta Hawks
+  Minnesota Timberwolves vs Brooklyn Nets
+Date 83:
+  Indiana Pacers vs Oklahoma City Thunder
+  Los Angeles Lakers vs Utah Jazz
+  Milwaukee Bucks vs Sacramento Kings
+  Orlando Magic vs New York Knicks
+  Phoenix Suns vs Washington Wizards
+  Portland Trail Blazers vs Los Angeles Clippers
+  Toronto Raptors vs Boston Celtics
+Date 84:
+  Brooklyn Nets vs New Orleans Pelicans
+  Charlotte Hornets vs Chicago Bulls
+  Cleveland Cavaliers vs Golden State Warriors
+  Denver Nuggets vs Philadelphia 76ers
+  Houston Rockets vs Miami Heat
+  Memphis Grizzlies vs Detroit Pistons
+  San Antonio Spurs vs Atlanta Hawks
+Date 85:
+  Indiana Pacers vs Toronto Raptors
+  Los Angeles Lakers vs Phoenix Suns
+  Minnesota Timberwolves vs New York Knicks
+  Oklahoma City Thunder vs Boston Celtics
+  Portland Trail Blazers vs Los Angeles Clippers
+  Sacramento Kings vs Milwaukee Bucks
+  Washington Wizards vs Dallas Mavericks
+Date 86:
+  Brooklyn Nets vs Atlanta Hawks
+  Detroit Pistons vs Cleveland Cavaliers
+  Golden State Warriors vs Miami Heat
+  Houston Rockets vs Utah Jazz
+  Memphis Grizzlies vs Philadelphia 76ers
+  New Orleans Pelicans vs Chicago Bulls
+  Orlando Magic vs San Antonio Spurs
+Date 87:
+  Dallas Mavericks vs Portland Trail Blazers
+  Denver Nuggets vs Phoenix Suns
+  Los Angeles Clippers vs Minnesota Timberwolves
+  Milwaukee Bucks vs Oklahoma City Thunder
+  New York Knicks vs Los Angeles Lakers
+  Sacramento Kings vs Indiana Pacers
+  Toronto Raptors vs Washington Wizards
+Date 88:
+  Atlanta Hawks vs Toronto Raptors
+  Chicago Bulls vs New Orleans Pelicans
+  Cleveland Cavaliers vs Memphis Grizzlies
+  Detroit Pistons vs Houston Rockets
+  Orlando Magic vs Charlotte Hornets
+  Philadelphia 76ers vs Brooklyn Nets
+  San Antonio Spurs vs Boston Celtics
+  Utah Jazz vs Golden State Warriors
+Date 89:
+  Charlotte Hornets vs Dallas Mavericks
+  Denver Nuggets vs Indiana Pacers
+  Golden State Warriors vs Washington Wizards
+  Los Angeles Clippers vs Portland Trail Blazers
+  Milwaukee Bucks vs Minnesota Timberwolves
+  New York Knicks vs Memphis Grizzlies
+  Phoenix Suns vs Miami Heat
+  Sacramento Kings vs Oklahoma City Thunder
+Date 90:
+  Atlanta Hawks vs San Antonio Spurs
+  Boston Celtics vs Utah Jazz
+  Chicago Bulls vs Houston Rockets
+  Detroit Pistons vs Toronto Raptors
+  New Orleans Pelicans vs Brooklyn Nets
+  Philadelphia 76ers vs Cleveland Cavaliers
+Date 91:
+  Charlotte Hornets vs Denver Nuggets
+  Golden State Warriors vs Portland Trail Blazers
+  Indiana Pacers vs Dallas Mavericks
+  Los Angeles Clippers vs Milwaukee Bucks
+  Minnesota Timberwolves vs Orlando Magic
+  New York Knicks vs Detroit Pistons
+  Oklahoma City Thunder vs Phoenix Suns
+  Sacramento Kings vs Memphis Grizzlies
+  San Antonio Spurs vs Washington Wizards
+Date 92:
+  Houston Rockets vs Los Angeles Lakers
+  Miami Heat vs Brooklyn Nets
+  Oklahoma City Thunder vs New Orleans Pelicans
+  Orlando Magic vs Boston Celtics
+  Toronto Raptors vs Atlanta Hawks
+Date 93:
+  Chicago Bulls vs Sacramento Kings
+  Cleveland Cavaliers vs Phoenix Suns
+  Denver Nuggets vs Utah Jazz
+  Detroit Pistons vs San Antonio Spurs
+  Golden State Warriors vs Memphis Grizzlies
+  Indiana Pacers vs Minnesota Timberwolves
+  Milwaukee Bucks vs Washington Wizards
+  Oklahoma City Thunder vs Los Angeles Clippers
+  Philadelphia 76ers vs Charlotte Hornets
+  Portland Trail Blazers vs Dallas Mavericks
+Date 94:
+  Atlanta Hawks vs New York Knicks
+  Boston Celtics vs Miami Heat
+  Los Angeles Lakers vs Brooklyn Nets
+  Orlando Magic vs Houston Rockets
+  Toronto Raptors vs New Orleans Pelicans
+Date 95:
+  Chicago Bulls vs Portland Trail Blazers
+  Dallas Mavericks vs Milwaukee Bucks
+  Denver Nuggets vs Minnesota Timberwolves
+  Memphis Grizzlies vs Los Angeles Clippers
+  Oklahoma City Thunder vs Boston Celtics
+  Phoenix Suns vs Detroit Pistons
+  Sacramento Kings vs Cleveland Cavaliers
+  San Antonio Spurs vs Indiana Pacers
+  Utah Jazz vs New York Knicks
+Date 96:
+  Atlanta Hawks vs Washington Wizards
+  Brooklyn Nets vs Philadelphia 76ers
+  Charlotte Hornets vs Houston Rockets
+  Golden State Warriors vs New Orleans Pelicans
+  Miami Heat vs Los Angeles Lakers
+Date 97:
+  Boston Celtics vs Orlando Magic
+  Brooklyn Nets vs Dallas Mavericks
+  Cleveland Cavaliers vs Milwaukee Bucks
+  Denver Nuggets vs Indiana Pacers
+  Detroit Pistons vs Toronto Raptors
+  Los Angeles Clippers vs Minnesota Timberwolves
+  Memphis Grizzlies vs New York Knicks
+  Oklahoma City Thunder vs Phoenix Suns
+  Portland Trail Blazers vs New Orleans Pelicans
+  Utah Jazz vs San Antonio Spurs
+Date 98:
+  Atlanta Hawks vs Sacramento Kings
+  Chicago Bulls vs Washington Wizards
+  New Orleans Pelicans vs Golden State Warriors
+  Philadelphia 76ers vs Houston Rockets
+Date 99:
+  Brooklyn Nets vs Utah Jazz
+  Charlotte Hornets vs Denver Nuggets
+  Indiana Pacers vs Philadelphia 76ers
+  Memphis Grizzlies vs Milwaukee Bucks
+  Minnesota Timberwolves vs Dallas Mavericks
+  New York Knicks vs Golden State Warriors
+  Oklahoma City Thunder vs Detroit Pistons
+  Phoenix Suns vs Los Angeles Lakers
+  San Antonio Spurs vs Portland Trail Blazers
+  Toronto Raptors vs Cleveland Cavaliers
+Date 100:
+  Boston Celtics vs Atlanta Hawks
+  Miami Heat vs Houston Rockets
+  Orlando Magic vs Chicago Bulls
+  Washington Wizards vs Los Angeles Clippers
+Date 101:
+  Brooklyn Nets vs San Antonio Spurs
+  Cleveland Cavaliers vs Golden State Warriors
+  Detroit Pistons vs Dallas Mavericks
+  Memphis Grizzlies vs New Orleans Pelicans
+  New York Knicks vs Charlotte Hornets
+  Phoenix Suns vs Oklahoma City Thunder
+  Portland Trail Blazers vs Indiana Pacers
+  Sacramento Kings vs Philadelphia 76ers
+  Toronto Raptors vs Denver Nuggets
+  Utah Jazz vs Los Angeles Lakers
+Date 102:
+  Miami Heat vs Minnesota Timberwolves
+  Milwaukee Bucks vs Houston Rockets
+  Orlando Magic vs Los Angeles Clippers
+  Washington Wizards vs Chicago Bulls
+Date 103:
+  Atlanta Hawks vs San Antonio Spurs
+  Boston Celtics vs Charlotte Hornets
+  Dallas Mavericks vs Toronto Raptors
+  Detroit Pistons vs Denver Nuggets
+  Golden State Warriors vs New York Knicks
+  Indiana Pacers vs Utah Jazz
+  Oklahoma City Thunder vs Philadelphia 76ers
+  Portland Trail Blazers vs New Orleans Pelicans
+Date 104:
+  Brooklyn Nets vs Phoenix Suns
+  Cleveland Cavaliers vs Utah Jazz
+  Houston Rockets vs Los Angeles Lakers
+  Los Angeles Clippers vs Miami Heat
+  Milwaukee Bucks vs Golden State Warriors
+  Minnesota Timberwolves vs Orlando Magic
+  Sacramento Kings vs Memphis Grizzlies
+Date 105:
+  Chicago Bulls vs Washington Wizards
+  Denver Nuggets vs Indiana Pacers
+  Memphis Grizzlies vs New Orleans Pelicans
+  Oklahoma City Thunder vs Dallas Mavericks
+  Philadelphia 76ers vs Atlanta Hawks
+  San Antonio Spurs vs New York Knicks
+  Toronto Raptors vs Detroit Pistons
+Date 106:
+  Boston Celtics vs Utah Jazz
+  Golden State Warriors vs Los Angeles Lakers
+  Los Angeles Clippers vs Milwaukee Bucks
+  Miami Heat vs Brooklyn Nets
+  Minnesota Timberwolves vs Houston Rockets
+  Orlando Magic vs Charlotte Hornets
+  Sacramento Kings vs Portland Trail Blazers
+Date 107:
+  Atlanta Hawks vs Toronto Raptors
+  Charlotte Hornets vs Washington Wizards
+  Chicago Bulls vs San Antonio Spurs
+  Denver Nuggets vs Indiana Pacers
+  Detroit Pistons vs Cleveland Cavaliers
+  Memphis Grizzlies vs New York Knicks
+  Oklahoma City Thunder vs Phoenix Suns
+  Philadelphia 76ers vs Dallas Mavericks
+Date 108:
+  Houston Rockets vs Los Angeles Lakers
+  Miami Heat vs New Orleans Pelicans
+  Milwaukee Bucks vs Indiana Pacers
+  Orlando Magic vs Portland Trail Blazers
+  Sacramento Kings vs Golden State Warriors
+  Utah Jazz vs Brooklyn Nets
+Date 109:
+  Atlanta Hawks vs Toronto Raptors
+  Boston Celtics vs Utah Jazz
+  Charlotte Hornets vs Denver Nuggets
+  Chicago Bulls vs Orlando Magic
+  Dallas Mavericks vs Oklahoma City Thunder
+  Detroit Pistons vs Portland Trail Blazers
+  Los Angeles Clippers vs Phoenix Suns
+  Los Angeles Lakers vs Memphis Grizzlies
+  Minnesota Timberwolves vs Golden State Warriors
+  New York Knicks vs Indiana Pacers
+  Philadelphia 76ers vs Cleveland Cavaliers
+  San Antonio Spurs vs Washington Wizards
+Date 110:
+  Brooklyn Nets vs Houston Rockets
+  Dallas Mavericks vs Milwaukee Bucks
+Date 111:
+  Atlanta Hawks vs Minnesota Timberwolves
+  Boston Celtics vs Charlotte Hornets
+  Cleveland Cavaliers vs Toronto Raptors
+  Detroit Pistons vs New York Knicks
+  Miami Heat vs Portland Trail Blazers
+  New Orleans Pelicans vs Orlando Magic
+  Phoenix Suns vs Denver Nuggets
+  Sacramento Kings vs Philadelphia 76ers
+  San Antonio Spurs vs Indiana Pacers
+  Utah Jazz vs Los Angeles Lakers
+  Washington Wizards vs Memphis Grizzlies
+Date 112:
+  Brooklyn Nets vs Milwaukee Bucks
+  Chicago Bulls vs New York Knicks
+  Dallas Mavericks vs Houston Rockets
+  Los Angeles Clippers vs Golden State Warriors
+Date 113:
+  Atlanta Hawks vs Portland Trail Blazers
+  Boston Celtics vs Utah Jazz
+  Cleveland Cavaliers vs Denver Nuggets
+  Indiana Pacers vs Philadelphia 76ers
+  Los Angeles Lakers vs Minnesota Timberwolves
+  New Orleans Pelicans vs Orlando Magic
+  Oklahoma City Thunder vs Phoenix Suns
+  Sacramento Kings vs Detroit Pistons
+Date 114:
+  Charlotte Hornets vs Dallas Mavericks
+  Houston Rockets vs Toronto Raptors
+  Memphis Grizzlies vs San Antonio Spurs
+  Miami Heat vs New York Knicks
+  Washington Wizards vs Los Angeles Clippers
+Date 115:
+  Boston Celtics vs Golden State Warriors
+  Detroit Pistons vs Utah Jazz
+  Houston Rockets vs Los Angeles Clippers
+  Los Angeles Lakers vs New Orleans Pelicans
+  Miami Heat vs Chicago Bulls
+  Milwaukee Bucks vs Sacramento Kings
+  Minnesota Timberwolves vs Brooklyn Nets
+  New York Knicks vs Orlando Magic
+  Oklahoma City Thunder vs Phoenix Suns
+  Philadelphia 76ers vs Cleveland Cavaliers
+  Portland Trail Blazers vs Indiana Pacers
+Date 116:
+  Charlotte Hornets vs Toronto Raptors
+  Denver Nuggets vs San Antonio Spurs
+Date 117:
+  Boston Celtics vs Phoenix Suns
+  Chicago Bulls vs San Antonio Spurs
+  Cleveland Cavaliers vs Sacramento Kings
+  Indiana Pacers vs Portland Trail Blazers
+  Los Angeles Clippers vs New York Knicks
+  Los Angeles Lakers vs Dallas Mavericks
+  Memphis Grizzlies vs Minnesota Timberwolves
+  Miami Heat vs Detroit Pistons
+  Orlando Magic vs Atlanta Hawks
+  Philadelphia 76ers vs Golden State Warriors
+  Utah Jazz vs Houston Rockets
+  Washington Wizards vs Oklahoma City Thunder
+Date 118:
+  Brooklyn Nets vs Denver Nuggets
+  Charlotte Hornets vs Toronto Raptors
+  Milwaukee Bucks vs Oklahoma City Thunder
+Date 119:
+  Atlanta Hawks vs Sacramento Kings
+  Chicago Bulls vs Boston Celtics
+  Dallas Mavericks vs Portland Trail Blazers
+  Golden State Warriors vs Phoenix Suns
+  Los Angeles Clippers vs San Antonio Spurs
+  Miami Heat vs Memphis Grizzlies
+  Minnesota Timberwolves vs Detroit Pistons
+  New Orleans Pelicans vs Washington Wizards
+  New York Knicks vs Indiana Pacers
+  Orlando Magic vs Philadelphia 76ers
+  Utah Jazz vs Los Angeles Lakers
+Date 120:
+  Boston Celtics vs Minnesota Timberwolves
+  Brooklyn Nets vs Los Angeles Clippers
+  Charlotte Hornets vs Denver Nuggets
+  Cleveland Cavaliers vs Milwaukee Bucks
+  Houston Rockets vs Atlanta Hawks
+Date 121:
+  Detroit Pistons vs Philadelphia 76ers
+  Golden State Warriors vs Minnesota Timberwolves
+  Los Angeles Lakers vs Phoenix Suns
+  Memphis Grizzlies vs Miami Heat
+  Milwaukee Bucks vs Oklahoma City Thunder
+  Orlando Magic vs Toronto Raptors
+  San Antonio Spurs vs New York Knicks
+  Utah Jazz vs Chicago Bulls
+  Washington Wizards vs Dallas Mavericks
+Date 122:
+  Boston Celtics vs Atlanta Hawks
+  Cleveland Cavaliers vs Los Angeles Clippers
+  Denver Nuggets vs Indiana Pacers
+  New Orleans Pelicans vs Miami Heat
+  Portland Trail Blazers vs Charlotte Hornets
+  San Antonio Spurs vs Brooklyn Nets
+Date 123:
+  Chicago Bulls vs Minnesota Timberwolves
+  Cleveland Cavaliers vs Sacramento Kings
+  Detroit Pistons vs Philadelphia 76ers
+  Houston Rockets vs Memphis Grizzlies
+  Milwaukee Bucks vs Los Angeles Lakers
+  Oklahoma City Thunder vs Dallas Mavericks
+  Orlando Magic vs Washington Wizards
+  Phoenix Suns vs Golden State Warriors
+Date 124:
+  Atlanta Hawks vs Utah Jazz
+  Cleveland Cavaliers vs Sacramento Kings
+  Denver Nuggets vs Indiana Pacers
+  New York Knicks vs Dallas Mavericks
+  Oklahoma City Thunder vs Boston Celtics
+  Portland Trail Blazers vs Miami Heat
+  San Antonio Spurs vs Brooklyn Nets
+  Toronto Raptors vs Charlotte Hornets
+Date 125:
+  Detroit Pistons vs Washington Wizards
+  Golden State Warriors vs Philadelphia 76ers
+  Houston Rockets vs Los Angeles Lakers
+  Los Angeles Clippers vs Milwaukee Bucks
+  Minnesota Timberwolves vs Memphis Grizzlies
+  New Orleans Pelicans vs Cleveland Cavaliers
+Date 126:
+  Boston Celtics vs Atlanta Hawks
+  Brooklyn Nets vs Utah Jazz
+  Charlotte Hornets vs Orlando Magic
+  Dallas Mavericks vs New York Knicks
+  Denver Nuggets vs Portland Trail Blazers
+  Indiana Pacers vs Sacramento Kings
+  Oklahoma City Thunder vs Miami Heat
+  Phoenix Suns vs Chicago Bulls
+  Toronto Raptors vs San Antonio Spurs
+Date 127:
+  Houston Rockets vs Minnesota Timberwolves
+  Milwaukee Bucks vs Memphis Grizzlies
+  New Orleans Pelicans vs Cleveland Cavaliers
+  Washington Wizards vs Los Angeles Clippers
+Date 128:
+  Atlanta Hawks vs Washington Wizards
+  Boston Celtics vs Toronto Raptors
+  Denver Nuggets vs Sacramento Kings
+  Golden State Warriors vs Detroit Pistons
+  Indiana Pacers vs Phoenix Suns
+  New York Knicks vs Los Angeles Lakers
+  Oklahoma City Thunder vs Charlotte Hornets
+  Orlando Magic vs Dallas Mavericks
+  Philadelphia 76ers vs Portland Trail Blazers
+  San Antonio Spurs vs Chicago Bulls
+  Utah Jazz vs Miami Heat
+Date 129:
+  Brooklyn Nets vs Minnesota Timberwolves
+  Denver Nuggets vs New Orleans Pelicans
+  Memphis Grizzlies vs Houston Rockets
+  Oklahoma City Thunder vs Cleveland Cavaliers
+  Sacramento Kings vs Los Angeles Clippers
+Date 130:
+  Boston Celtics vs Orlando Magic
+  Chicago Bulls vs Washington Wizards
+  Dallas Mavericks vs Milwaukee Bucks
+  Detroit Pistons vs Portland Trail Blazers
+  Golden State Warriors vs Sacramento Kings
+  Los Angeles Lakers vs Charlotte Hornets
+  New York Knicks vs San Antonio Spurs
+  Philadelphia 76ers vs Atlanta Hawks
+  Phoenix Suns vs Miami Heat
+Date 131:
+  Atlanta Hawks vs Toronto Raptors
+  Denver Nuggets vs Houston Rockets
+  Indiana Pacers vs Los Angeles Lakers
+  Miami Heat vs Oklahoma City Thunder
+  Minnesota Timberwolves vs Memphis Grizzlies
+  New Orleans Pelicans vs Los Angeles Clippers
+  Utah Jazz vs Brooklyn Nets
+Date 132:
+  Detroit Pistons vs Charlotte Hornets
+  Milwaukee Bucks vs Sacramento Kings
+  New York Knicks vs Denver Nuggets
+  Orlando Magic vs Cleveland Cavaliers
+  Philadelphia 76ers vs Portland Trail Blazers
+  Phoenix Suns vs Boston Celtics
+  Washington Wizards vs Chicago Bulls
+Date 133:
+  Atlanta Hawks vs Golden State Warriors
+  Los Angeles Clippers vs Houston Rockets
+  Los Angeles Lakers vs Dallas Mavericks
+  Memphis Grizzlies vs New Orleans Pelicans
+  Miami Heat vs Detroit Pistons
+  Oklahoma City Thunder vs Brooklyn Nets
+  San Antonio Spurs vs Chicago Bulls
+Date 134:
+  Charlotte Hornets vs Sacramento Kings
+  Cleveland Cavaliers vs Portland Trail Blazers
+  Denver Nuggets vs Washington Wizards
+  New York Knicks vs Philadelphia 76ers
+  Orlando Magic vs Minnesota Timberwolves
+  Toronto Raptors vs Milwaukee Bucks
+  Utah Jazz vs Indiana Pacers
+Date 135:
+  Atlanta Hawks vs Oklahoma City Thunder
+  Brooklyn Nets vs Phoenix Suns
+  Cleveland Cavaliers vs Detroit Pistons
+  Dallas Mavericks vs Toronto Raptors
+  Golden State Warriors vs Boston Celtics
+  Los Angeles Clippers vs San Antonio Spurs
+  Los Angeles Lakers vs Chicago Bulls
+Date 136:
+  Brooklyn Nets vs Sacramento Kings
+  Indiana Pacers vs Washington Wizards
+  Los Angeles Clippers vs Orlando Magic
+  Miami Heat vs Denver Nuggets
+  Minnesota Timberwolves vs Charlotte Hornets
+  Philadelphia 76ers vs Memphis Grizzlies
+  Phoenix Suns vs New York Knicks
+  Portland Trail Blazers vs Milwaukee Bucks
+  Utah Jazz vs New Orleans Pelicans
+Date 137:
+  Atlanta Hawks vs Toronto Raptors
+  Boston Celtics vs Golden State Warriors
+  Houston Rockets vs Orlando Magic
+  Los Angeles Lakers vs Detroit Pistons
+Date 138:
+  Boston Celtics vs New Orleans Pelicans
+  Chicago Bulls vs Utah Jazz
+  Cleveland Cavaliers vs Denver Nuggets
+  Dallas Mavericks vs Sacramento Kings
+  Indiana Pacers vs Memphis Grizzlies
+  Minnesota Timberwolves vs Miami Heat
+  Oklahoma City Thunder vs New York Knicks
+  Phoenix Suns vs Charlotte Hornets
+  San Antonio Spurs vs Milwaukee Bucks
+  Washington Wizards vs Los Angeles Clippers
+Date 139:
+  Atlanta Hawks vs Toronto Raptors
+  Detroit Pistons vs Philadelphia 76ers
+  Los Angeles Lakers vs Portland Trail Blazers
+  Orlando Magic vs Golden State Warriors
+Date 140:
+  Charlotte Hornets vs Washington Wizards
+  Dallas Mavericks vs Boston Celtics
+  Houston Rockets vs Chicago Bulls
+  Indiana Pacers vs Oklahoma City Thunder
+  Los Angeles Lakers vs New York Knicks
+  Milwaukee Bucks vs Sacramento Kings
+  Minnesota Timberwolves vs Miami Heat
+  New Orleans Pelicans vs Los Angeles Clippers
+  Philadelphia 76ers vs Denver Nuggets
+  San Antonio Spurs vs Brooklyn Nets
+  Utah Jazz vs Phoenix Suns
+Date 141:
+  Detroit Pistons vs Atlanta Hawks
+  Golden State Warriors vs Cleveland Cavaliers
+Date 142:
+  Boston Celtics vs Phoenix Suns
+  Charlotte Hornets vs Los Angeles Lakers
+  Chicago Bulls vs Indiana Pacers
+  Denver Nuggets vs Los Angeles Clippers
+  Houston Rockets vs Memphis Grizzlies
+  Miami Heat vs Oklahoma City Thunder
+  Milwaukee Bucks vs San Antonio Spurs
+  New Orleans Pelicans vs Portland Trail Blazers
+  New York Knicks vs Atlanta Hawks
+  Philadelphia 76ers vs Minnesota Timberwolves
+  Sacramento Kings vs Brooklyn Nets
+  Toronto Raptors vs Orlando Magic
+  Utah Jazz vs Dallas Mavericks
+Date 143:
+  Cleveland Cavaliers vs Golden State Warriors
+  Sacramento Kings vs Houston Rockets
+  Washington Wizards vs Charlotte Hornets
+Date 144:
+  Boston Celtics vs Atlanta Hawks
+  Chicago Bulls vs Brooklyn Nets
+  Cleveland Cavaliers vs Memphis Grizzlies
+  Denver Nuggets vs Orlando Magic
+  Detroit Pistons vs Los Angeles Lakers
+  Indiana Pacers vs Philadelphia 76ers
+  Los Angeles Clippers vs Milwaukee Bucks
+  Miami Heat vs New Orleans Pelicans
+  Minnesota Timberwolves vs San Antonio Spurs
+  Phoenix Suns vs New York Knicks
+  Sacramento Kings vs Dallas Mavericks
+  Toronto Raptors vs Portland Trail Blazers
+  Utah Jazz vs Oklahoma City Thunder
+Date 145:
+  Atlanta Hawks vs San Antonio Spurs
+  Charlotte Hornets vs Dallas Mavericks
+  Houston Rockets vs Washington Wizards
+Date 146:
+  Brooklyn Nets vs Minnesota Timberwolves
+  Chicago Bulls vs Phoenix Suns
+  Indiana Pacers vs Utah Jazz
+  Los Angeles Clippers vs Orlando Magic
+  Los Angeles Lakers vs Cleveland Cavaliers
+  Memphis Grizzlies vs Toronto Raptors
+  Milwaukee Bucks vs Oklahoma City Thunder
+  New Orleans Pelicans vs Boston Celtics
+  New York Knicks vs Golden State Warriors
+  Portland Trail Blazers vs Detroit Pistons
+  Sacramento Kings vs Philadelphia 76ers
+  San Antonio Spurs vs Denver Nuggets
+Date 147:
+  Boston Celtics vs Miami Heat
+  Houston Rockets vs Washington Wizards
+  Indiana Pacers vs Dallas Mavericks
+Date 148:
+  Detroit Pistons vs Cleveland Cavaliers
+  Golden State Warriors vs Philadelphia 76ers
+  Los Angeles Clippers vs New Orleans Pelicans
+  Los Angeles Lakers vs Minnesota Timberwolves
+  Miami Heat vs Toronto Raptors
+  Orlando Magic vs San Antonio Spurs
+  Phoenix Suns vs Brooklyn Nets
+  Portland Trail Blazers vs Denver Nuggets
+  Sacramento Kings vs Charlotte Hornets
+  Utah Jazz vs Memphis Grizzlies
+Date 149:
+  Atlanta Hawks vs New York Knicks
+  Houston Rockets vs Washington Wizards
+  Indiana Pacers vs Milwaukee Bucks
+  Oklahoma City Thunder vs Dallas Mavericks
+  Philadelphia 76ers vs Charlotte Hornets
+  San Antonio Spurs vs Chicago Bulls
+Date 150:
+  Brooklyn Nets vs Utah Jazz
+  Detroit Pistons vs New Orleans Pelicans
+  Los Angeles Lakers vs Miami Heat
+  Memphis Grizzlies vs Boston Celtics
+  Minnesota Timberwolves vs Orlando Magic
+  Phoenix Suns vs Cleveland Cavaliers
+  Sacramento Kings vs Portland Trail Blazers
+  Toronto Raptors vs Denver Nuggets
+Date 151:
+  Atlanta Hawks vs Philadelphia 76ers
+  Chicago Bulls vs San Antonio Spurs
+  Golden State Warriors vs Oklahoma City Thunder
+  Houston Rockets vs Milwaukee Bucks
+  Indiana Pacers vs Charlotte Hornets
+  Los Angeles Clippers vs Dallas Mavericks
+  Washington Wizards vs Denver Nuggets
+Date 152:
+  Atlanta Hawks vs Utah Jazz
+  Brooklyn Nets vs Toronto Raptors
+  Detroit Pistons vs Los Angeles Clippers
+  Miami Heat vs Cleveland Cavaliers
+  Phoenix Suns vs Orlando Magic
+  Portland Trail Blazers vs Boston Celtics
+  Sacramento Kings vs Minnesota Timberwolves
+Date 153:
+  Dallas Mavericks vs Chicago Bulls
+  Detroit Pistons vs Los Angeles Lakers
+  Golden State Warriors vs Charlotte Hornets
+  Houston Rockets vs Memphis Grizzlies
+  Indiana Pacers vs Philadelphia 76ers
+  Milwaukee Bucks vs Oklahoma City Thunder
+  New York Knicks vs Washington Wizards
+  Utah Jazz vs New Orleans Pelicans
+Date 154:
+  Atlanta Hawks vs Phoenix Suns
+  Indiana Pacers vs Boston Celtics
+  Los Angeles Clippers vs San Antonio Spurs
+  Orlando Magic vs Brooklyn Nets
+  Portland Trail Blazers vs Denver Nuggets
+  Toronto Raptors vs Cleveland Cavaliers
+Date 155:
+  Dallas Mavericks vs Utah Jazz
+  Detroit Pistons vs New Orleans Pelicans
+  Houston Rockets vs Memphis Grizzlies
+  Los Angeles Lakers vs New York Knicks
+  Minnesota Timberwolves vs Golden State Warriors
+  Oklahoma City Thunder vs Milwaukee Bucks
+  Philadelphia 76ers vs Miami Heat
+  Sacramento Kings vs Chicago Bulls
+  Washington Wizards vs Charlotte Hornets
+Date 156:
+  Atlanta Hawks vs Toronto Raptors
+  Brooklyn Nets vs San Antonio Spurs
+  Golden State Warriors vs Los Angeles Clippers
+  Indiana Pacers vs Boston Celtics
+  Phoenix Suns vs Cleveland Cavaliers
+Date 157:
+  Chicago Bulls vs Minnesota Timberwolves
+  Detroit Pistons vs Orlando Magic
+  Houston Rockets vs Los Angeles Lakers
+  Indiana Pacers vs Sacramento Kings
+  Memphis Grizzlies vs New York Knicks
+  Miami Heat vs Washington Wizards
+  Milwaukee Bucks vs Oklahoma City Thunder
+  Philadelphia 76ers vs Denver Nuggets
+  Portland Trail Blazers vs New Orleans Pelicans
+  Utah Jazz vs Phoenix Suns
+Date 158:
+  Boston Celtics vs Minnesota Timberwolves
+  Brooklyn Nets vs Toronto Raptors
+  Golden State Warriors vs Dallas Mavericks
+  Los Angeles Clippers vs Oklahoma City Thunder
+  Washington Wizards vs Charlotte Hornets
+Date 159:
+  Atlanta Hawks vs Philadelphia 76ers
+  Chicago Bulls vs Utah Jazz
+  Cleveland Cavaliers vs Phoenix Suns
+  Indiana Pacers vs Houston Rockets
+  Los Angeles Lakers vs Denver Nuggets
+  Memphis Grizzlies vs Orlando Magic
+  Milwaukee Bucks vs Miami Heat
+  New Orleans Pelicans vs Detroit Pistons
+  Portland Trail Blazers vs Sacramento Kings
+Date 160:
+  Boston Celtics vs Oklahoma City Thunder
+  Brooklyn Nets vs San Antonio Spurs
+  Charlotte Hornets vs Los Angeles Clippers
+  Dallas Mavericks vs Toronto Raptors
+  Golden State Warriors vs New York Knicks
+  Minnesota Timberwolves vs Orlando Magic
+Date 161:
+  Chicago Bulls vs Cleveland Cavaliers
+  Denver Nuggets vs Indiana Pacers
+  Houston Rockets vs Utah Jazz
+  Los Angeles Clippers vs Memphis Grizzlies
+  Miami Heat vs Milwaukee Bucks
+  Phoenix Suns vs Washington Wizards
+  Portland Trail Blazers vs Detroit Pistons
+  Sacramento Kings vs Philadelphia 76ers
+Date 162:
+  Atlanta Hawks vs Oklahoma City Thunder
+  Brooklyn Nets vs Washington Wizards
+  Charlotte Hornets vs Toronto Raptors
+  Dallas Mavericks vs Minnesota Timberwolves
+  Golden State Warriors vs New York Knicks
+  New Orleans Pelicans vs Los Angeles Lakers
+  San Antonio Spurs vs Boston Celtics
+Date 163:
+  Chicago Bulls vs Miami Heat
+  Cleveland Cavaliers vs Utah Jazz
+  Denver Nuggets vs Indiana Pacers
+  Detroit Pistons vs Phoenix Suns
+  Houston Rockets vs Philadelphia 76ers
+  Los Angeles Clippers vs Memphis Grizzlies
+  Oklahoma City Thunder vs Milwaukee Bucks
+Date 164:
+  Atlanta Hawks vs Sacramento Kings
+  Boston Celtics vs Orlando Magic
+  Charlotte Hornets vs Dallas Mavericks
+  Chicago Bulls vs New York Knicks
+  Minnesota Timberwolves vs New Orleans Pelicans
+  Toronto Raptors vs Golden State Warriors
+Date 165:
+  Cleveland Cavaliers vs Golden State Warriors
+  Denver Nuggets vs Houston Rockets
+  Los Angeles Lakers vs Brooklyn Nets
+  Philadelphia 76ers vs Los Angeles Clippers
+  Phoenix Suns vs Miami Heat
+  San Antonio Spurs vs Indiana Pacers
+  Utah Jazz vs Oklahoma City Thunder
+  Washington Wizards vs Detroit Pistons
+Date 166:
+  Boston Celtics vs Portland Trail Blazers
+  Dallas Mavericks vs Toronto Raptors
+  Houston Rockets vs Chicago Bulls
+  Memphis Grizzlies vs Los Angeles Clippers
+  Milwaukee Bucks vs New York Knicks
+  Minnesota Timberwolves vs Orlando Magic
+  New Orleans Pelicans vs Atlanta Hawks
+  Sacramento Kings vs Charlotte Hornets
+Date 167:
+  Cleveland Cavaliers vs Oklahoma City Thunder
+  Golden State Warriors vs Los Angeles Lakers
+  San Antonio Spurs vs Brooklyn Nets
+Date 168:
+  Atlanta Hawks vs Toronto Raptors
+  Chicago Bulls vs Milwaukee Bucks
+  Denver Nuggets vs Portland Trail Blazers
+  Detroit Pistons vs Utah Jazz
+  Los Angeles Clippers vs Indiana Pacers
+  Los Angeles Lakers vs New York Knicks
+  Miami Heat vs Philadelphia 76ers
+  New Orleans Pelicans vs Dallas Mavericks
+  Orlando Magic vs Boston Celtics
+  Phoenix Suns vs Charlotte Hornets
+  Sacramento Kings vs Memphis Grizzlies
+  Washington Wizards vs Houston Rockets
+Date 169:
+  Cleveland Cavaliers vs San Antonio Spurs
+Date 170:
+  Brooklyn Nets vs Utah Jazz
+  Chicago Bulls vs Golden State Warriors
+  Cleveland Cavaliers vs Miami Heat
+  Dallas Mavericks vs New York Knicks
+  Detroit Pistons vs Sacramento Kings
+  Houston Rockets vs Charlotte Hornets
+  Indiana Pacers vs Phoenix Suns
+  Los Angeles Clippers vs Oklahoma City Thunder
+  Memphis Grizzlies vs Los Angeles Lakers
+  Milwaukee Bucks vs Portland Trail Blazers
+  New Orleans Pelicans vs Boston Celtics
+  Orlando Magic vs Atlanta Hawks
+  Philadelphia 76ers vs Washington Wizards
+  Toronto Raptors vs Denver Nuggets
+Date 171:
+  Brooklyn Nets vs Miami Heat
+  Charlotte Hornets vs Atlanta Hawks
+  Dallas Mavericks vs Utah Jazz
+  Indiana Pacers vs Portland Trail Blazers
+  Los Angeles Lakers vs Golden State Warriors
+  Milwaukee Bucks vs Memphis Grizzlies
+  Minnesota Timberwolves vs Cleveland Cavaliers
+  New Orleans Pelicans vs Detroit Pistons
+  New York Knicks vs Los Angeles Clippers
+  Orlando Magic vs Boston Celtics
+  San Antonio Spurs vs Denver Nuggets
+  Washington Wizards vs Chicago Bulls
+Date 172:
+  Oklahoma City Thunder vs Phoenix Suns
+  Philadelphia 76ers vs Houston Rockets
+  Toronto Raptors vs Chicago Bulls
+Date 173:
+  Boston Celtics vs Golden State Warriors
+  Brooklyn Nets vs Utah Jazz
+  Charlotte Hornets vs Denver Nuggets
+  Cleveland Cavaliers vs New Orleans Pelicans
+  Indiana Pacers vs Miami Heat
+  Los Angeles Clippers vs Minnesota Timberwolves
+  Los Angeles Lakers vs Dallas Mavericks
+  New York Knicks vs Detroit Pistons
+  Portland Trail Blazers vs Memphis Grizzlies
+  Sacramento Kings vs Orlando Magic
+  San Antonio Spurs vs Atlanta Hawks
+Date 174:
+  Milwaukee Bucks vs Oklahoma City Thunder
+  Phoenix Suns vs Philadelphia 76ers
+  Toronto Raptors vs Chicago Bulls
+Date 175:
+  Atlanta Hawks vs Orlando Magic
+  Cleveland Cavaliers vs Boston Celtics
+  Dallas Mavericks vs Houston Rockets
+  Golden State Warriors vs San Antonio Spurs
+  Indiana Pacers vs Sacramento Kings
+  Los Angeles Lakers vs Los Angeles Clippers
+  Miami Heat vs Denver Nuggets
+  Portland Trail Blazers vs Brooklyn Nets
+  Utah Jazz vs Minnesota Timberwolves
+  Washington Wizards vs Charlotte Hornets
+Date 176:
+  Milwaukee Bucks vs Toronto Raptors
+  New York Knicks vs Detroit Pistons
+  Oklahoma City Thunder vs New Orleans Pelicans
+  Philadelphia 76ers vs Miami Heat
+  Phoenix Suns vs Memphis Grizzlies
+  Washington Wizards vs Chicago Bulls
+Date 177:
+  Boston Celtics vs Atlanta Hawks
+  Brooklyn Nets vs Portland Trail Blazers
+  Charlotte Hornets vs New Orleans Pelicans
+  Cleveland Cavaliers vs Memphis Grizzlies
+  Denver Nuggets vs Orlando Magic
+  Houston Rockets vs Sacramento Kings
+  Indiana Pacers vs Utah Jazz
+  Los Angeles Lakers vs Minnesota Timberwolves
+  San Antonio Spurs vs Golden State Warriors
+Date 178:
+  Chicago Bulls vs Miami Heat
+  Milwaukee Bucks vs Oklahoma City Thunder
+  New York Knicks vs Detroit Pistons
+  Phoenix Suns vs Philadelphia 76ers
+  Washington Wizards vs Dallas Mavericks
+Date 179:
+  Charlotte Hornets vs Brooklyn Nets
+  Denver Nuggets vs Indiana Pacers
+  Golden State Warriors vs Utah Jazz
+  Los Angeles Lakers vs Cleveland Cavaliers
+  Memphis Grizzlies vs New Orleans Pelicans
+  Minnesota Timberwolves vs Los Angeles Clippers
+  Orlando Magic vs Sacramento Kings
+  Portland Trail Blazers vs Atlanta Hawks
+  San Antonio Spurs vs Chicago Bulls
+Date 180:
+  Dallas Mavericks vs Toronto Raptors
+  Oklahoma City Thunder vs New York Knicks
+  Philadelphia 76ers vs Houston Rockets
+  Phoenix Suns vs Detroit Pistons
+Date 181:
+  Boston Celtics vs Atlanta Hawks
+  Charlotte Hornets vs Washington Wizards
+  Cleveland Cavaliers vs Brooklyn Nets
+  Golden State Warriors vs Chicago Bulls
+  Los Angeles Lakers vs San Antonio Spurs
+  Miami Heat vs New Orleans Pelicans
+  Minnesota Timberwolves vs Los Angeles Clippers
+  Portland Trail Blazers vs Milwaukee Bucks
+  Utah Jazz vs Sacramento Kings
+Date 182:
+  Dallas Mavericks vs Philadelphia 76ers
+  Houston Rockets vs New York Knicks
+  Indiana Pacers vs Orlando Magic
+  Los Angeles Lakers vs Phoenix Suns
+  Oklahoma City Thunder vs Memphis Grizzlies
+  Toronto Raptors vs Denver Nuggets
+Date 183:
+  Brooklyn Nets vs Minnesota Timberwolves
+  Chicago Bulls vs Charlotte Hornets
+  Detroit Pistons vs Milwaukee Bucks
+  New Orleans Pelicans vs Boston Celtics
+  Sacramento Kings vs San Antonio Spurs
+  Toronto Raptors vs Atlanta Hawks
+  Utah Jazz vs Cleveland Cavaliers
+  Washington Wizards vs Portland Trail Blazers
+Date 184:
+  Charlotte Hornets vs Denver Nuggets
+  Dallas Mavericks vs Philadelphia 76ers
+  Houston Rockets vs Memphis Grizzlies
+  Indiana Pacers vs Los Angeles Lakers
+  Miami Heat vs Los Angeles Clippers
+  New York Knicks vs Golden State Warriors
+Date 185:
+  Chicago Bulls vs Toronto Raptors
+  Oklahoma City Thunder vs Detroit Pistons
+  Phoenix Suns vs Portland Trail Blazers
+  Sacramento Kings vs Brooklyn Nets
+  San Antonio Spurs vs New Orleans Pelicans
+  Utah Jazz vs Cleveland Cavaliers
+  Washington Wizards vs Orlando Magic
+Date 186:
+  Dallas Mavericks vs Milwaukee Bucks
+  Golden State Warriors vs Boston Celtics
+  Houston Rockets vs Minnesota Timberwolves
+  Los Angeles Lakers vs Indiana Pacers
+  Memphis Grizzlies vs Los Angeles Clippers
+  New York Knicks vs Denver Nuggets
+  Philadelphia 76ers vs Atlanta Hawks
+Date 187:
+  Oklahoma City Thunder vs Miami Heat
+  Orlando Magic vs Phoenix Suns
+  Sacramento Kings vs Cleveland Cavaliers
+  San Antonio Spurs vs Brooklyn Nets
+  Toronto Raptors vs Charlotte Hornets
+  Utah Jazz vs Portland Trail Blazers
+  Washington Wizards vs Chicago Bulls
+Date 188:
+  Atlanta Hawks vs Washington Wizards
+  Dallas Mavericks vs Boston Celtics
+  Denver Nuggets vs San Antonio Spurs
+  Golden State Warriors vs Philadelphia 76ers
+  Indiana Pacers vs Houston Rockets
+  Minnesota Timberwolves vs Milwaukee Bucks
+  New Orleans Pelicans vs Los Angeles Lakers
+  Oklahoma City Thunder vs Memphis Grizzlies
+Date 189:
+  Brooklyn Nets vs Utah Jazz
+  Charlotte Hornets vs Portland Trail Blazers
+  Chicago Bulls vs Los Angeles Clippers
+  Detroit Pistons vs Sacramento Kings
+  Orlando Magic vs Houston Rockets
+  Phoenix Suns vs Miami Heat
+  Toronto Raptors vs Cleveland Cavaliers
+Date 190:
+  Boston Celtics vs Atlanta Hawks
+  Denver Nuggets vs Indiana Pacers
+  Houston Rockets vs Oklahoma City Thunder
+  Los Angeles Lakers vs Golden State Warriors
+  Memphis Grizzlies vs New York Knicks
+  Milwaukee Bucks vs New Orleans Pelicans
+  Minnesota Timberwolves vs Dallas Mavericks
+  Philadelphia 76ers vs Washington Wizards
