@@ -1,0 +1,1424 @@
+Solution found!
+FEASIBLE solution found!
+Day 1:
+  Boston Celtics @ Atlanta Hawks
+  Charlotte Hornets @ Brooklyn Nets
+  Cleveland Cavaliers @ Chicago Bulls
+  Denver Nuggets @ Dallas Mavericks
+  Los Angeles Clippers @ Golden State Warriors
+  Indiana Pacers @ Houston Rockets
+  Orlando Magic @ Los Angeles Lakers
+  Miami Heat @ Memphis Grizzlies
+  Minnesota Timberwolves @ Milwaukee Bucks
+  New York Knicks @ New Orleans Pelicans
+  Sacramento Kings @ Portland Trail Blazers
+  Toronto Raptors @ San Antonio Spurs
+  Washington Wizards @ Utah Jazz
+Day 2:
+  Boston Celtics @ Atlanta Hawks
+  Cleveland Cavaliers @ Chicago Bulls
+  Denver Nuggets @ Dallas Mavericks
+  Golden State Warriors @ Detroit Pistons
+  Indiana Pacers @ Houston Rockets
+  Orlando Magic @ Los Angeles Lakers
+  Miami Heat @ Memphis Grizzlies
+  Washington Wizards @ Phoenix Suns
+  Toronto Raptors @ San Antonio Spurs
+Day 3:
+  Brooklyn Nets @ Atlanta Hawks
+  Charlotte Hornets @ Boston Celtics
+  Dallas Mavericks @ Chicago Bulls
+  Denver Nuggets @ Cleveland Cavaliers
+  Houston Rockets @ Detroit Pistons
+  Indiana Pacers @ Golden State Warriors
+  Memphis Grizzlies @ Los Angeles Clippers
+  Miami Heat @ Los Angeles Lakers
+  New Orleans Pelicans @ Milwaukee Bucks
+  New York Knicks @ Minnesota Timberwolves
+  Philadelphia 76ers @ Oklahoma City Thunder
+  Phoenix Suns @ Orlando Magic
+  San Antonio Spurs @ Portland Trail Blazers
+  Toronto Raptors @ Sacramento Kings
+Day 4:
+  Brooklyn Nets @ Atlanta Hawks
+  Charlotte Hornets @ Boston Celtics
+  Denver Nuggets @ Cleveland Cavaliers
+  Houston Rockets @ Detroit Pistons
+  Indiana Pacers @ Golden State Warriors
+  Miami Heat @ Los Angeles Lakers
+  New Orleans Pelicans @ Milwaukee Bucks
+  Dallas Mavericks @ Utah Jazz
+Day 5:
+  Charlotte Hornets @ Atlanta Hawks
+  Brooklyn Nets @ Boston Celtics
+  Denver Nuggets @ Chicago Bulls
+  Houston Rockets @ Cleveland Cavaliers
+  Miami Heat @ Los Angeles Clippers
+  Memphis Grizzlies @ Los Angeles Lakers
+  New York Knicks @ Milwaukee Bucks
+  New Orleans Pelicans @ Minnesota Timberwolves
+  Phoenix Suns @ Oklahoma City Thunder
+  Philadelphia 76ers @ Orlando Magic
+  Toronto Raptors @ Portland Trail Blazers
+  San Antonio Spurs @ Sacramento Kings
+  Washington Wizards @ Utah Jazz
+Day 6:
+  Charlotte Hornets @ Atlanta Hawks
+  Indiana Pacers @ Boston Celtics
+  Denver Nuggets @ Chicago Bulls
+  Dallas Mavericks @ Cleveland Cavaliers
+  Los Angeles Clippers @ Detroit Pistons
+  Houston Rockets @ Golden State Warriors
+  Memphis Grizzlies @ Los Angeles Lakers
+  Phoenix Suns @ Oklahoma City Thunder
+Day 7:
+  Chicago Bulls @ Atlanta Hawks
+  Cleveland Cavaliers @ Boston Celtics
+  Dallas Mavericks @ Brooklyn Nets
+  Denver Nuggets @ Charlotte Hornets
+  Los Angeles Lakers @ Golden State Warriors
+  Memphis Grizzlies @ Houston Rockets
+  Miami Heat @ Indiana Pacers
+  Oklahoma City Thunder @ Milwaukee Bucks
+  Orlando Magic @ Minnesota Timberwolves
+  Philadelphia 76ers @ New Orleans Pelicans
+  Phoenix Suns @ New York Knicks
+  Utah Jazz @ Portland Trail Blazers
+  Washington Wizards @ Sacramento Kings
+Day 8:
+  Chicago Bulls @ Atlanta Hawks
+  Cleveland Cavaliers @ Boston Celtics
+  Dallas Mavericks @ Brooklyn Nets
+  Denver Nuggets @ Charlotte Hornets
+  Los Angeles Clippers @ Detroit Pistons
+  Los Angeles Lakers @ Golden State Warriors
+  Memphis Grizzlies @ Houston Rockets
+  Miami Heat @ Indiana Pacers
+  Washington Wizards @ Portland Trail Blazers
+Day 9:
+  Cleveland Cavaliers @ Atlanta Hawks
+  Chicago Bulls @ Boston Celtics
+  Denver Nuggets @ Brooklyn Nets
+  Dallas Mavericks @ Charlotte Hornets
+  Los Angeles Lakers @ Detroit Pistons
+  Los Angeles Clippers @ Golden State Warriors
+  Miami Heat @ Houston Rockets
+  Memphis Grizzlies @ Indiana Pacers
+  Orlando Magic @ Milwaukee Bucks
+  Oklahoma City Thunder @ Minnesota Timberwolves
+  Philadelphia 76ers @ New York Knicks
+  Utah Jazz @ Sacramento Kings
+Day 10:
+  Cleveland Cavaliers @ Atlanta Hawks
+  Chicago Bulls @ Boston Celtics
+  Denver Nuggets @ Brooklyn Nets
+  Dallas Mavericks @ Charlotte Hornets
+  Miami Heat @ Houston Rockets
+  Memphis Grizzlies @ Indiana Pacers
+  Phoenix Suns @ New Orleans Pelicans
+  Washington Wizards @ Portland Trail Blazers
+Day 11:
+  Dallas Mavericks @ Atlanta Hawks
+  Denver Nuggets @ Boston Celtics
+  Chicago Bulls @ Brooklyn Nets
+  Cleveland Cavaliers @ Charlotte Hornets
+  Memphis Grizzlies @ Detroit Pistons
+  Miami Heat @ Golden State Warriors
+  Los Angeles Clippers @ Houston Rockets
+  Los Angeles Lakers @ Indiana Pacers
+  Philadelphia 76ers @ Milwaukee Bucks
+  Phoenix Suns @ Minnesota Timberwolves
+  Oklahoma City Thunder @ New Orleans Pelicans
+  Orlando Magic @ New York Knicks
+  Utah Jazz @ San Antonio Spurs
+  Washington Wizards @ Toronto Raptors
+Day 12:
+  Dallas Mavericks @ Atlanta Hawks
+  Denver Nuggets @ Boston Celtics
+  Chicago Bulls @ Brooklyn Nets
+  Cleveland Cavaliers @ Charlotte Hornets
+  Memphis Grizzlies @ Detroit Pistons
+  Oklahoma City Thunder @ Houston Rockets
+  Los Angeles Lakers @ Indiana Pacers
+  Philadelphia 76ers @ Milwaukee Bucks
+  Golden State Warriors @ Sacramento Kings
+  Utah Jazz @ San Antonio Spurs
+  Washington Wizards @ Toronto Raptors
+Day 13:
+  Denver Nuggets @ Atlanta Hawks
+  Dallas Mavericks @ Boston Celtics
+  Cleveland Cavaliers @ Brooklyn Nets
+  Chicago Bulls @ Charlotte Hornets
+  Miami Heat @ Detroit Pistons
+  Memphis Grizzlies @ Golden State Warriors
+  Los Angeles Lakers @ Houston Rockets
+  Los Angeles Clippers @ Indiana Pacers
+  Phoenix Suns @ Milwaukee Bucks
+  Philadelphia 76ers @ Minnesota Timberwolves
+  Oklahoma City Thunder @ New York Knicks
+  Washington Wizards @ San Antonio Spurs
+  Utah Jazz @ Toronto Raptors
+Day 14:
+  Denver Nuggets @ Atlanta Hawks
+  Dallas Mavericks @ Boston Celtics
+  Cleveland Cavaliers @ Brooklyn Nets
+  Chicago Bulls @ Charlotte Hornets
+  Los Angeles Lakers @ Houston Rockets
+  Los Angeles Clippers @ Indiana Pacers
+  Orlando Magic @ New Orleans Pelicans
+  Washington Wizards @ San Antonio Spurs
+Day 15:
+  Detroit Pistons @ Atlanta Hawks
+  Golden State Warriors @ Boston Celtics
+  Houston Rockets @ Brooklyn Nets
+  Indiana Pacers @ Charlotte Hornets
+  Los Angeles Clippers @ Chicago Bulls
+  Los Angeles Lakers @ Cleveland Cavaliers
+  Memphis Grizzlies @ Dallas Mavericks
+  Miami Heat @ Denver Nuggets
+  Philadelphia 76ers @ Minnesota Timberwolves
+  Toronto Raptors @ New York Knicks
+  Utah Jazz @ Oklahoma City Thunder
+  Washington Wizards @ Orlando Magic
+Day 16:
+  Detroit Pistons @ Atlanta Hawks
+  Houston Rockets @ Brooklyn Nets
+  Indiana Pacers @ Charlotte Hornets
+  Los Angeles Clippers @ Chicago Bulls
+  Los Angeles Lakers @ Cleveland Cavaliers
+  Memphis Grizzlies @ Dallas Mavericks
+  Phoenix Suns @ Milwaukee Bucks
+  Toronto Raptors @ New Orleans Pelicans
+  San Antonio Spurs @ New York Knicks
+Day 17:
+  Golden State Warriors @ Atlanta Hawks
+  Detroit Pistons @ Boston Celtics
+  Indiana Pacers @ Brooklyn Nets
+  Houston Rockets @ Charlotte Hornets
+  Los Angeles Lakers @ Chicago Bulls
+  Los Angeles Clippers @ Cleveland Cavaliers
+  Memphis Grizzlies @ Denver Nuggets
+  Sacramento Kings @ Milwaukee Bucks
+  Portland Trail Blazers @ Minnesota Timberwolves
+  Toronto Raptors @ New York Knicks
+  Washington Wizards @ Oklahoma City Thunder
+  Utah Jazz @ Orlando Magic
+Day 18:
+  Golden State Warriors @ Atlanta Hawks
+  Detroit Pistons @ Boston Celtics
+  Indiana Pacers @ Brooklyn Nets
+  Houston Rockets @ Charlotte Hornets
+  Los Angeles Lakers @ Chicago Bulls
+  Memphis Grizzlies @ Denver Nuggets
+  Toronto Raptors @ New Orleans Pelicans
+  Phoenix Suns @ Orlando Magic
+Day 19:
+  Houston Rockets @ Atlanta Hawks
+  Indiana Pacers @ Boston Celtics
+  Detroit Pistons @ Brooklyn Nets
+  Golden State Warriors @ Charlotte Hornets
+  Memphis Grizzlies @ Chicago Bulls
+  Miami Heat @ Cleveland Cavaliers
+  Los Angeles Clippers @ Dallas Mavericks
+  Los Angeles Lakers @ Denver Nuggets
+  San Antonio Spurs @ Milwaukee Bucks
+  Toronto Raptors @ Minnesota Timberwolves
+  Portland Trail Blazers @ New Orleans Pelicans
+  Utah Jazz @ Philadelphia 76ers
+  Washington Wizards @ Phoenix Suns
+Day 20:
+  Houston Rockets @ Atlanta Hawks
+  Golden State Warriors @ Charlotte Hornets
+  Memphis Grizzlies @ Chicago Bulls
+  Miami Heat @ Cleveland Cavaliers
+  Los Angeles Lakers @ Denver Nuggets
+  Sacramento Kings @ New York Knicks
+  Philadelphia 76ers @ Oklahoma City Thunder
+  Boston Celtics @ Orlando Magic
+Day 21:
+  Indiana Pacers @ Atlanta Hawks
+  Houston Rockets @ Boston Celtics
+  Golden State Warriors @ Brooklyn Nets
+  Detroit Pistons @ Charlotte Hornets
+  Miami Heat @ Chicago Bulls
+  Memphis Grizzlies @ Cleveland Cavaliers
+  Los Angeles Lakers @ Dallas Mavericks
+  Los Angeles Clippers @ Denver Nuggets
+  San Antonio Spurs @ Minnesota Timberwolves
+  Sacramento Kings @ New Orleans Pelicans
+  Portland Trail Blazers @ New York Knicks
+  Washington Wizards @ Philadelphia 76ers
+  Utah Jazz @ Phoenix Suns
+Day 22:
+  Indiana Pacers @ Atlanta Hawks
+  Houston Rockets @ Boston Celtics
+  Golden State Warriors @ Brooklyn Nets
+  Detroit Pistons @ Charlotte Hornets
+  Miami Heat @ Chicago Bulls
+  Memphis Grizzlies @ Cleveland Cavaliers
+  Los Angeles Clippers @ Denver Nuggets
+  Minnesota Timberwolves @ Milwaukee Bucks
+  Toronto Raptors @ Orlando Magic
+Day 23:
+  Los Angeles Clippers @ Atlanta Hawks
+  Los Angeles Lakers @ Boston Celtics
+  Memphis Grizzlies @ Brooklyn Nets
+  Miami Heat @ Charlotte Hornets
+  Detroit Pistons @ Chicago Bulls
+  Golden State Warriors @ Cleveland Cavaliers
+  Houston Rockets @ Dallas Mavericks
+  Indiana Pacers @ Denver Nuggets
+  Utah Jazz @ Milwaukee Bucks
+  Washington Wizards @ Minnesota Timberwolves
+  Portland Trail Blazers @ Oklahoma City Thunder
+  Sacramento Kings @ Orlando Magic
+  San Antonio Spurs @ Philadelphia 76ers
+  Toronto Raptors @ Phoenix Suns
+Day 24:
+  Los Angeles Clippers @ Atlanta Hawks
+  Miami Heat @ Charlotte Hornets
+  Golden State Warriors @ Cleveland Cavaliers
+  Indiana Pacers @ Denver Nuggets
+  Toronto Raptors @ Phoenix Suns
+Day 25:
+  Los Angeles Lakers @ Atlanta Hawks
+  Los Angeles Clippers @ Boston Celtics
+  Miami Heat @ Brooklyn Nets
+  Memphis Grizzlies @ Charlotte Hornets
+  Golden State Warriors @ Chicago Bulls
+  Detroit Pistons @ Cleveland Cavaliers
+  Indiana Pacers @ Dallas Mavericks
+  Houston Rockets @ Denver Nuggets
+  Washington Wizards @ Milwaukee Bucks
+  Utah Jazz @ Minnesota Timberwolves
+  Sacramento Kings @ Oklahoma City Thunder
+  Portland Trail Blazers @ Orlando Magic
+  Toronto Raptors @ Philadelphia 76ers
+  San Antonio Spurs @ Phoenix Suns
+Day 26:
+  Los Angeles Lakers @ Atlanta Hawks
+  Los Angeles Clippers @ Boston Celtics
+  Miami Heat @ Brooklyn Nets
+  Memphis Grizzlies @ Charlotte Hornets
+  Golden State Warriors @ Chicago Bulls
+  Detroit Pistons @ Cleveland Cavaliers
+  Houston Rockets @ Denver Nuggets
+  Sacramento Kings @ Oklahoma City Thunder
+  Washington Wizards @ Orlando Magic
+Day 27:
+  Memphis Grizzlies @ Atlanta Hawks
+  Miami Heat @ Boston Celtics
+  Los Angeles Clippers @ Brooklyn Nets
+  Los Angeles Lakers @ Charlotte Hornets
+  Houston Rockets @ Chicago Bulls
+  Indiana Pacers @ Cleveland Cavaliers
+  Detroit Pistons @ Dallas Mavericks
+  Golden State Warriors @ Denver Nuggets
+  Utah Jazz @ New Orleans Pelicans
+  Washington Wizards @ New York Knicks
+  San Antonio Spurs @ Oklahoma City Thunder
+  Toronto Raptors @ Philadelphia 76ers
+  Sacramento Kings @ Phoenix Suns
+Day 28:
+  Los Angeles Clippers @ Brooklyn Nets
+  Los Angeles Lakers @ Charlotte Hornets
+  Houston Rockets @ Chicago Bulls
+  Indiana Pacers @ Cleveland Cavaliers
+  Golden State Warriors @ Denver Nuggets
+  Atlanta Hawks @ Philadelphia 76ers
+Day 29:
+  Miami Heat @ Atlanta Hawks
+  Memphis Grizzlies @ Boston Celtics
+  Los Angeles Lakers @ Brooklyn Nets
+  Los Angeles Clippers @ Charlotte Hornets
+  Indiana Pacers @ Chicago Bulls
+  Houston Rockets @ Cleveland Cavaliers
+  Golden State Warriors @ Dallas Mavericks
+  Detroit Pistons @ Denver Nuggets
+  Sacramento Kings @ New Orleans Pelicans
+  Utah Jazz @ New York Knicks
+  Toronto Raptors @ Oklahoma City Thunder
+  San Antonio Spurs @ Orlando Magic
+  Portland Trail Blazers @ Phoenix Suns
+Day 30:
+  Memphis Grizzlies @ Boston Celtics
+  Los Angeles Lakers @ Brooklyn Nets
+  Los Angeles Clippers @ Charlotte Hornets
+  Indiana Pacers @ Chicago Bulls
+  Minnesota Timberwolves @ Denver Nuggets
+  Atlanta Hawks @ Miami Heat
+  San Antonio Spurs @ Milwaukee Bucks
+Day 31:
+  Milwaukee Bucks @ Boston Celtics
+  Minnesota Timberwolves @ Brooklyn Nets
+  New Orleans Pelicans @ Charlotte Hornets
+  Oklahoma City Thunder @ Cleveland Cavaliers
+  Orlando Magic @ Dallas Mavericks
+  Philadelphia 76ers @ Denver Nuggets
+  Phoenix Suns @ Detroit Pistons
+  Portland Trail Blazers @ Golden State Warriors
+  Sacramento Kings @ Houston Rockets
+  San Antonio Spurs @ Indiana Pacers
+  Toronto Raptors @ Los Angeles Clippers
+  Utah Jazz @ Los Angeles Lakers
+  Washington Wizards @ Memphis Grizzlies
+Day 32:
+  Milwaukee Bucks @ Brooklyn Nets
+  Minnesota Timberwolves @ Charlotte Hornets
+  New Orleans Pelicans @ Chicago Bulls
+  New York Knicks @ Cleveland Cavaliers
+  Oklahoma City Thunder @ Dallas Mavericks
+  Orlando Magic @ Denver Nuggets
+  Phoenix Suns @ Golden State Warriors
+  Portland Trail Blazers @ Houston Rockets
+  Sacramento Kings @ Indiana Pacers
+  San Antonio Spurs @ Los Angeles Clippers
+  Toronto Raptors @ Los Angeles Lakers
+  Utah Jazz @ Memphis Grizzlies
+Day 33:
+  Golden State Warriors @ Boston Celtics
+  Milwaukee Bucks @ Brooklyn Nets
+  Minnesota Timberwolves @ Charlotte Hornets
+  New York Knicks @ Cleveland Cavaliers
+  Philadelphia 76ers @ Detroit Pistons
+  Portland Trail Blazers @ Houston Rockets
+  Sacramento Kings @ Indiana Pacers
+  Toronto Raptors @ Los Angeles Lakers
+Day 34:
+  Milwaukee Bucks @ Charlotte Hornets
+  Minnesota Timberwolves @ Chicago Bulls
+  New Orleans Pelicans @ Cleveland Cavaliers
+  New York Knicks @ Dallas Mavericks
+  Oklahoma City Thunder @ Denver Nuggets
+  Orlando Magic @ Detroit Pistons
+  Philadelphia 76ers @ Golden State Warriors
+  Phoenix Suns @ Houston Rockets
+  Portland Trail Blazers @ Indiana Pacers
+  Sacramento Kings @ Los Angeles Clippers
+  San Antonio Spurs @ Los Angeles Lakers
+  Toronto Raptors @ Memphis Grizzlies
+  Utah Jazz @ Miami Heat
+  Atlanta Hawks @ Washington Wizards
+Day 35:
+  Memphis Grizzlies @ Brooklyn Nets
+  Milwaukee Bucks @ Charlotte Hornets
+  New Orleans Pelicans @ Cleveland Cavaliers
+  New York Knicks @ Dallas Mavericks
+  Oklahoma City Thunder @ Denver Nuggets
+  Phoenix Suns @ Houston Rockets
+  San Antonio Spurs @ Los Angeles Lakers
+Day 36:
+  Milwaukee Bucks @ Chicago Bulls
+  Minnesota Timberwolves @ Cleveland Cavaliers
+  New Orleans Pelicans @ Dallas Mavericks
+  New York Knicks @ Denver Nuggets
+  Oklahoma City Thunder @ Detroit Pistons
+  Orlando Magic @ Golden State Warriors
+  Philadelphia 76ers @ Indiana Pacers
+  Phoenix Suns @ Los Angeles Clippers
+  Portland Trail Blazers @ Los Angeles Lakers
+  Sacramento Kings @ Memphis Grizzlies
+  San Antonio Spurs @ Miami Heat
+  Atlanta Hawks @ Toronto Raptors
+  Boston Celtics @ Utah Jazz
+  Houston Rockets @ Washington Wizards
+Day 37:
+  Charlotte Hornets @ Brooklyn Nets
+  Milwaukee Bucks @ Chicago Bulls
+  Minnesota Timberwolves @ Cleveland Cavaliers
+  New York Knicks @ Denver Nuggets
+  Orlando Magic @ Golden State Warriors
+  Philadelphia 76ers @ Houston Rockets
+  Phoenix Suns @ Indiana Pacers
+  Portland Trail Blazers @ Los Angeles Clippers
+  Sacramento Kings @ Los Angeles Lakers
+  San Antonio Spurs @ Memphis Grizzlies
+  Toronto Raptors @ Miami Heat
+  Atlanta Hawks @ Utah Jazz
+  Boston Celtics @ Washington Wizards
+Day 38:
+  Milwaukee Bucks @ Cleveland Cavaliers
+  Minnesota Timberwolves @ Dallas Mavericks
+  New Orleans Pelicans @ Denver Nuggets
+  New York Knicks @ Detroit Pistons
+  Oklahoma City Thunder @ Golden State Warriors
+  Orlando Magic @ Houston Rockets
+  Philadelphia 76ers @ Indiana Pacers
+  Phoenix Suns @ Los Angeles Clippers
+  Portland Trail Blazers @ Los Angeles Lakers
+  Sacramento Kings @ Memphis Grizzlies
+  San Antonio Spurs @ Miami Heat
+  Atlanta Hawks @ Toronto Raptors
+  Boston Celtics @ Utah Jazz
+  Brooklyn Nets @ Washington Wizards
+Day 39:
+  Minnesota Timberwolves @ Chicago Bulls
+  Milwaukee Bucks @ Cleveland Cavaliers
+  New Orleans Pelicans @ Denver Nuggets
+  Orlando Magic @ Houston Rockets
+  Phoenix Suns @ Indiana Pacers
+  Philadelphia 76ers @ Los Angeles Clippers
+  Sacramento Kings @ Los Angeles Lakers
+  Portland Trail Blazers @ Memphis Grizzlies
+  Toronto Raptors @ Miami Heat
+  Atlanta Hawks @ San Antonio Spurs
+  Brooklyn Nets @ Utah Jazz
+  Boston Celtics @ Washington Wizards
+Day 40:
+  Milwaukee Bucks @ Dallas Mavericks
+  Minnesota Timberwolves @ Denver Nuggets
+  New Orleans Pelicans @ Detroit Pistons
+  New York Knicks @ Golden State Warriors
+  Orlando Magic @ Indiana Pacers
+  Phoenix Suns @ Los Angeles Lakers
+  Portland Trail Blazers @ Memphis Grizzlies
+  Sacramento Kings @ Miami Heat
+  Boston Celtics @ Toronto Raptors
+  Brooklyn Nets @ Utah Jazz
+  Charlotte Hornets @ Washington Wizards
+Day 41:
+  Detroit Pistons @ Denver Nuggets
+  Oklahoma City Thunder @ Houston Rockets
+  Orlando Magic @ Indiana Pacers
+  Portland Trail Blazers @ Los Angeles Clippers
+  Philadelphia 76ers @ Los Angeles Lakers
+  Phoenix Suns @ Memphis Grizzlies
+  Boston Celtics @ San Antonio Spurs
+  Brooklyn Nets @ Toronto Raptors
+  Atlanta Hawks @ Utah Jazz
+  Charlotte Hornets @ Washington Wizards
+Day 42:
+  Milwaukee Bucks @ Denver Nuggets
+  Minnesota Timberwolves @ Detroit Pistons
+  New Orleans Pelicans @ Golden State Warriors
+  New York Knicks @ Houston Rockets
+  Oklahoma City Thunder @ Indiana Pacers
+  Orlando Magic @ Los Angeles Clippers
+  Philadelphia 76ers @ Los Angeles Lakers
+  Phoenix Suns @ Memphis Grizzlies
+  Portland Trail Blazers @ Miami Heat
+  Atlanta Hawks @ Sacramento Kings
+  Boston Celtics @ San Antonio Spurs
+  Brooklyn Nets @ Toronto Raptors
+  Charlotte Hornets @ Utah Jazz
+Day 43:
+  Los Angeles Clippers @ Cleveland Cavaliers
+  Milwaukee Bucks @ Denver Nuggets
+  Minnesota Timberwolves @ Detroit Pistons
+  New York Knicks @ Houston Rockets
+  Oklahoma City Thunder @ Indiana Pacers
+  Phoenix Suns @ Los Angeles Lakers
+  Philadelphia 76ers @ Memphis Grizzlies
+  Atlanta Hawks @ Sacramento Kings
+  Brooklyn Nets @ San Antonio Spurs
+  Boston Celtics @ Toronto Raptors
+  Charlotte Hornets @ Utah Jazz
+  Chicago Bulls @ Washington Wizards
+Day 44:
+  Milwaukee Bucks @ Detroit Pistons
+  Minnesota Timberwolves @ Golden State Warriors
+  New Orleans Pelicans @ Houston Rockets
+  New York Knicks @ Indiana Pacers
+  Oklahoma City Thunder @ Los Angeles Clippers
+  Phoenix Suns @ Miami Heat
+  Atlanta Hawks @ Portland Trail Blazers
+  Boston Celtics @ Sacramento Kings
+  Brooklyn Nets @ San Antonio Spurs
+  Charlotte Hornets @ Toronto Raptors
+  Chicago Bulls @ Utah Jazz
+  Cleveland Cavaliers @ Washington Wizards
+Day 45:
+  Detroit Pistons @ Dallas Mavericks
+  Orlando Magic @ Denver Nuggets
+  Minnesota Timberwolves @ Golden State Warriors
+  New Orleans Pelicans @ Houston Rockets
+  New York Knicks @ Indiana Pacers
+  San Antonio Spurs @ Memphis Grizzlies
+  Philadelphia 76ers @ Miami Heat
+  Atlanta Hawks @ Phoenix Suns
+  Boston Celtics @ Portland Trail Blazers
+  Brooklyn Nets @ Sacramento Kings
+  Charlotte Hornets @ Toronto Raptors
+Day 46:
+  Milwaukee Bucks @ Golden State Warriors
+  Minnesota Timberwolves @ Houston Rockets
+  New Orleans Pelicans @ Indiana Pacers
+  New York Knicks @ Los Angeles Clippers
+  Oklahoma City Thunder @ Los Angeles Lakers
+  Orlando Magic @ Memphis Grizzlies
+  Boston Celtics @ Portland Trail Blazers
+  Charlotte Hornets @ San Antonio Spurs
+  Chicago Bulls @ Toronto Raptors
+  Cleveland Cavaliers @ Utah Jazz
+  Dallas Mavericks @ Washington Wizards
+Day 47:
+  Minnesota Timberwolves @ Houston Rockets
+  New Orleans Pelicans @ Indiana Pacers
+  Oklahoma City Thunder @ Los Angeles Lakers
+  Orlando Magic @ Memphis Grizzlies
+  Phoenix Suns @ Miami Heat
+  Atlanta Hawks @ Philadelphia 76ers
+  Brooklyn Nets @ Portland Trail Blazers
+  Boston Celtics @ Sacramento Kings
+  Charlotte Hornets @ San Antonio Spurs
+  Cleveland Cavaliers @ Utah Jazz
+Day 48:
+  Dallas Mavericks @ Cleveland Cavaliers
+  Philadelphia 76ers @ Detroit Pistons
+  Milwaukee Bucks @ Houston Rockets
+  Minnesota Timberwolves @ Indiana Pacers
+  New Orleans Pelicans @ Los Angeles Clippers
+  New York Knicks @ Los Angeles Lakers
+  Orlando Magic @ Miami Heat
+  Boston Celtics @ Phoenix Suns
+  Brooklyn Nets @ Portland Trail Blazers
+  Charlotte Hornets @ Sacramento Kings
+  Chicago Bulls @ San Antonio Spurs
+  Denver Nuggets @ Washington Wizards
+Day 49:
+  Miami Heat @ Golden State Warriors
+  New York Knicks @ Los Angeles Lakers
+  Oklahoma City Thunder @ Memphis Grizzlies
+  Boston Celtics @ Philadelphia 76ers
+  Brooklyn Nets @ Phoenix Suns
+  Chicago Bulls @ San Antonio Spurs
+  Cleveland Cavaliers @ Toronto Raptors
+Day 50:
+  Philadelphia 76ers @ Houston Rockets
+  Minnesota Timberwolves @ Los Angeles Clippers
+  New Orleans Pelicans @ Los Angeles Lakers
+  New York Knicks @ Memphis Grizzlies
+  Oklahoma City Thunder @ Miami Heat
+  Atlanta Hawks @ Orlando Magic
+  Boston Celtics @ Phoenix Suns
+  Charlotte Hornets @ Portland Trail Blazers
+  Cleveland Cavaliers @ San Antonio Spurs
+  Dallas Mavericks @ Toronto Raptors
+  Denver Nuggets @ Utah Jazz
+  Brooklyn Nets @ Washington Wizards
+Day 51:
+  Milwaukee Bucks @ Indiana Pacers
+  New Orleans Pelicans @ Los Angeles Lakers
+  New York Knicks @ Memphis Grizzlies
+  Boston Celtics @ Philadelphia 76ers
+  Brooklyn Nets @ Phoenix Suns
+  Charlotte Hornets @ Portland Trail Blazers
+  Chicago Bulls @ Sacramento Kings
+  Denver Nuggets @ Utah Jazz
+  Detroit Pistons @ Washington Wizards
+Day 52:
+  Milwaukee Bucks @ Houston Rockets
+  Minnesota Timberwolves @ Los Angeles Lakers
+  New Orleans Pelicans @ Memphis Grizzlies
+  New York Knicks @ Miami Heat
+  Atlanta Hawks @ Oklahoma City Thunder
+  Boston Celtics @ Orlando Magic
+  Brooklyn Nets @ Philadelphia 76ers
+  Charlotte Hornets @ Phoenix Suns
+  Chicago Bulls @ Portland Trail Blazers
+  Cleveland Cavaliers @ Sacramento Kings
+  Dallas Mavericks @ San Antonio Spurs
+  Denver Nuggets @ Toronto Raptors
+  Detroit Pistons @ Utah Jazz
+  Golden State Warriors @ Washington Wizards
+Day 53:
+  New Orleans Pelicans @ Memphis Grizzlies
+  Brooklyn Nets @ Philadelphia 76ers
+  Cleveland Cavaliers @ Sacramento Kings
+  Denver Nuggets @ Toronto Raptors
+  Indiana Pacers @ Washington Wizards
+Day 54:
+  Milwaukee Bucks @ Los Angeles Lakers
+  Minnesota Timberwolves @ Memphis Grizzlies
+  New Orleans Pelicans @ Miami Heat
+  Atlanta Hawks @ New York Knicks
+  Boston Celtics @ Oklahoma City Thunder
+  Brooklyn Nets @ Orlando Magic
+  Charlotte Hornets @ Philadelphia 76ers
+  Chicago Bulls @ Phoenix Suns
+  Cleveland Cavaliers @ Portland Trail Blazers
+  Dallas Mavericks @ Sacramento Kings
+  Denver Nuggets @ San Antonio Spurs
+  Detroit Pistons @ Toronto Raptors
+Day 55:
+  Sacramento Kings @ Los Angeles Clippers
+  Milwaukee Bucks @ Los Angeles Lakers
+  Boston Celtics @ Oklahoma City Thunder
+  Brooklyn Nets @ Orlando Magic
+  Charlotte Hornets @ Philadelphia 76ers
+  Chicago Bulls @ Phoenix Suns
+  Cleveland Cavaliers @ Portland Trail Blazers
+  Denver Nuggets @ San Antonio Spurs
+  Golden State Warriors @ Utah Jazz
+  Indiana Pacers @ Washington Wizards
+Day 56:
+  Milwaukee Bucks @ Memphis Grizzlies
+  Atlanta Hawks @ New Orleans Pelicans
+  Boston Celtics @ New York Knicks
+  Brooklyn Nets @ Oklahoma City Thunder
+  Charlotte Hornets @ Orlando Magic
+  Chicago Bulls @ Philadelphia 76ers
+  Cleveland Cavaliers @ Phoenix Suns
+  Dallas Mavericks @ Portland Trail Blazers
+  Denver Nuggets @ Sacramento Kings
+  Detroit Pistons @ San Antonio Spurs
+  Golden State Warriors @ Toronto Raptors
+  Houston Rockets @ Washington Wizards
+Day 57:
+  Dallas Mavericks @ Chicago Bulls
+  Cleveland Cavaliers @ Phoenix Suns
+  Los Angeles Clippers @ Washington Wizards
+Day 58:
+  Milwaukee Bucks @ Memphis Grizzlies
+  Atlanta Hawks @ Minnesota Timberwolves
+  Boston Celtics @ New Orleans Pelicans
+  Brooklyn Nets @ New York Knicks
+  Charlotte Hornets @ Oklahoma City Thunder
+  Chicago Bulls @ Orlando Magic
+  Cleveland Cavaliers @ Philadelphia 76ers
+  Dallas Mavericks @ Phoenix Suns
+  Denver Nuggets @ Portland Trail Blazers
+  Houston Rockets @ Toronto Raptors
+  Indiana Pacers @ Utah Jazz
+Day 59:
+  Boston Celtics @ New Orleans Pelicans
+  Brooklyn Nets @ New York Knicks
+  Charlotte Hornets @ Oklahoma City Thunder
+  Chicago Bulls @ Orlando Magic
+  Denver Nuggets @ Portland Trail Blazers
+  Detroit Pistons @ Sacramento Kings
+  Golden State Warriors @ San Antonio Spurs
+  Houston Rockets @ Toronto Raptors
+  Los Angeles Lakers @ Washington Wizards
+Day 60:
+  Atlanta Hawks @ Milwaukee Bucks
+  Boston Celtics @ Minnesota Timberwolves
+  Brooklyn Nets @ New Orleans Pelicans
+  Chicago Bulls @ Oklahoma City Thunder
+  Cleveland Cavaliers @ Orlando Magic
+  Dallas Mavericks @ Philadelphia 76ers
+  Denver Nuggets @ Phoenix Suns
+  Detroit Pistons @ Portland Trail Blazers
+  Golden State Warriors @ Sacramento Kings
+  Houston Rockets @ San Antonio Spurs
+  Indiana Pacers @ Toronto Raptors
+Day 61:
+  Charlotte Hornets @ New York Knicks
+  Cleveland Cavaliers @ Orlando Magic
+  Houston Rockets @ San Antonio Spurs
+  Los Angeles Clippers @ Utah Jazz
+  Dallas Mavericks @ Washington Wizards
+Day 62:
+  Philadelphia 76ers @ Miami Heat
+  Boston Celtics @ Milwaukee Bucks
+  Brooklyn Nets @ Minnesota Timberwolves
+  Chicago Bulls @ New York Knicks
+  Cleveland Cavaliers @ Oklahoma City Thunder
+  Denver Nuggets @ Phoenix Suns
+  Houston Rockets @ Sacramento Kings
+  Indiana Pacers @ San Antonio Spurs
+  Golden State Warriors @ Toronto Raptors
+  Memphis Grizzlies @ Washington Wizards
+Day 63:
+  Dallas Mavericks @ Orlando Magic
+  Denver Nuggets @ Philadelphia 76ers
+  Detroit Pistons @ Phoenix Suns
+  Golden State Warriors @ Portland Trail Blazers
+  Los Angeles Clippers @ Utah Jazz
+Day 64:
+  Washington Wizards @ Milwaukee Bucks
+  New York Knicks @ Minnesota Timberwolves
+  Charlotte Hornets @ New Orleans Pelicans
+Day 65:
+  Sacramento Kings @ Portland Trail Blazers
+  Los Angeles Clippers @ Toronto Raptors
+Day 66:
+  Sacramento Kings @ New York Knicks
+  Atlanta Hawks @ Washington Wizards
+Day 67:
+Day 68:
+  Washington Wizards @ Miami Heat
+  Atlanta Hawks @ Minnesota Timberwolves
+  Sacramento Kings @ Phoenix Suns
+  Detroit Pistons @ San Antonio Spurs
+Day 69:
+  Oklahoma City Thunder @ New Orleans Pelicans
+Day 70:
+  Oklahoma City Thunder @ Minnesota Timberwolves
+  Sacramento Kings @ Philadelphia 76ers
+  Detroit Pistons @ Washington Wizards
+Day 71:
+Day 72:
+  Minnesota Timberwolves @ Miami Heat
+  Orlando Magic @ New York Knicks
+  Sacramento Kings @ Philadelphia 76ers
+  Atlanta Hawks @ Portland Trail Blazers
+Day 73:
+Day 74:
+  San Antonio Spurs @ Minnesota Timberwolves
+  Atlanta Hawks @ New Orleans Pelicans
+Day 75:
+  Atlanta Hawks @ Oklahoma City Thunder
+  San Antonio Spurs @ Philadelphia 76ers
+  Toronto Raptors @ Portland Trail Blazers
+Day 76:
+  Sacramento Kings @ Minnesota Timberwolves
+  Toronto Raptors @ Orlando Magic
+  Atlanta Hawks @ San Antonio Spurs
+Day 77:
+Day 78:
+  Atlanta Hawks @ Orlando Magic
+  Utah Jazz @ Portland Trail Blazers
+  Dallas Mavericks @ San Antonio Spurs
+Day 79:
+  Atlanta Hawks @ Milwaukee Bucks
+  Detroit Pistons @ Sacramento Kings
+Day 80:
+  Minnesota Timberwolves @ Indiana Pacers
+  Dallas Mavericks @ Utah Jazz
+Day 81:
+  Minnesota Timberwolves @ Miami Heat
+  Indiana Pacers @ Utah Jazz
+Day 82:
+  Houston Rockets @ Dallas Mavericks
+  Indiana Pacers @ Detroit Pistons
+Day 83:
+Day 84:
+  Minnesota Timberwolves @ Dallas Mavericks
+  Miami Heat @ Detroit Pistons
+  Phoenix Suns @ New York Knicks
+Day 85:
+  Oklahoma City Thunder @ Dallas Mavericks
+  New York Knicks @ Miami Heat
+  San Antonio Spurs @ Phoenix Suns
+Day 86:
+  San Antonio Spurs @ Oklahoma City Thunder
+Day 87:
+  Sacramento Kings @ Milwaukee Bucks
+  San Antonio Spurs @ New York Knicks
+  Utah Jazz @ Toronto Raptors
+Day 88:
+  Sacramento Kings @ Miami Heat
+  Utah Jazz @ Minnesota Timberwolves
+  San Antonio Spurs @ New Orleans Pelicans
+  Orlando Magic @ Oklahoma City Thunder
+Day 89:
+  Utah Jazz @ Oklahoma City Thunder
+  Toronto Raptors @ Sacramento Kings
+Day 90:
+  Utah Jazz @ Orlando Magic
+  Detroit Pistons @ Toronto Raptors
+Day 91:
+  Utah Jazz @ Milwaukee Bucks
+Day 92:
+  Detroit Pistons @ Utah Jazz
+Day 93:
+  Detroit Pistons @ Portland Trail Blazers
+  Indiana Pacers @ Toronto Raptors
+Day 94:
+  Indiana Pacers @ Detroit Pistons
+Day 95:
+Day 96:
+  Milwaukee Bucks @ Detroit Pistons
+Day 97:
+Day 98:
+  Milwaukee Bucks @ Miami Heat
+Day 99:
+Day 100:
+  Milwaukee Bucks @ Miami Heat
+  Sacramento Kings @ Minnesota Timberwolves
+Day 101:
+  Portland Trail Blazers @ Miami Heat
+  Chicago Bulls @ Toronto Raptors
+Day 102:
+  Milwaukee Bucks @ Los Angeles Clippers
+  New York Knicks @ Philadelphia 76ers
+  Chicago Bulls @ Sacramento Kings
+Day 103:
+  Orlando Magic @ Oklahoma City Thunder
+  Chicago Bulls @ Portland Trail Blazers
+Day 104:
+  Milwaukee Bucks @ Los Angeles Clippers
+  Washington Wizards @ New Orleans Pelicans
+  Chicago Bulls @ Oklahoma City Thunder
+Day 105:
+  New Orleans Pelicans @ Miami Heat
+  Chicago Bulls @ New York Knicks
+Day 106:
+  Washington Wizards @ New Orleans Pelicans
+  New York Knicks @ Utah Jazz
+Day 107:
+  Los Angeles Lakers @ Los Angeles Clippers
+  Portland Trail Blazers @ Philadelphia 76ers
+Day 108:
+  Golden State Warriors @ New York Knicks
+Day 109:
+  Portland Trail Blazers @ Phoenix Suns
+Day 110:
+  Portland Trail Blazers @ Philadelphia 76ers
+Day 111:
+  Los Angeles Lakers @ Dallas Mavericks
+  San Antonio Spurs @ Los Angeles Clippers
+  Sacramento Kings @ Orlando Magic
+Day 112:
+  Los Angeles Lakers @ Detroit Pistons
+  Miami Heat @ Los Angeles Clippers
+  Philadelphia 76ers @ New Orleans Pelicans
+  Dallas Mavericks @ Phoenix Suns
+Day 113:
+  Orlando Magic @ Minnesota Timberwolves
+  San Antonio Spurs @ Sacramento Kings
+Day 114:
+  Los Angeles Clippers @ Dallas Mavericks
+  New Orleans Pelicans @ Golden State Warriors
+  Washington Wizards @ Miami Heat
+  Phoenix Suns @ Philadelphia 76ers
+  San Antonio Spurs @ Portland Trail Blazers
+Day 115:
+  Orlando Magic @ New Orleans Pelicans
+  Washington Wizards @ New York Knicks
+Day 116:
+  Los Angeles Lakers @ Los Angeles Clippers
+  Washington Wizards @ Oklahoma City Thunder
+  San Antonio Spurs @ Orlando Magic
+  Phoenix Suns @ Philadelphia 76ers
+Day 117:
+  Golden State Warriors @ Dallas Mavericks
+  Oklahoma City Thunder @ Milwaukee Bucks
+  San Antonio Spurs @ New Orleans Pelicans
+  Washington Wizards @ Sacramento Kings
+Day 118:
+  Los Angeles Lakers @ Washington Wizards
+Day 119:
+  New Orleans Pelicans @ Dallas Mavericks
+  Phoenix Suns @ Golden State Warriors
+Day 120:
+  Oklahoma City Thunder @ Detroit Pistons
+  Utah Jazz @ Sacramento Kings
+  Los Angeles Clippers @ Washington Wizards
+Day 121:
+  New Orleans Pelicans @ Los Angeles Clippers
+Day 122:
+  New Orleans Pelicans @ Minnesota Timberwolves
+Day 123:
+  New Orleans Pelicans @ Detroit Pistons
+  Utah Jazz @ Golden State Warriors
+  Oklahoma City Thunder @ Los Angeles Clippers
+Day 124:
+  Minnesota Timberwolves @ Memphis Grizzlies
+  Oklahoma City Thunder @ New York Knicks
+  Utah Jazz @ Philadelphia 76ers
+Day 125:
+  Orlando Magic @ Milwaukee Bucks
+  New York Knicks @ New Orleans Pelicans
+  Portland Trail Blazers @ Oklahoma City Thunder
+Day 126:
+  Miami Heat @ Dallas Mavericks
+  Memphis Grizzlies @ Golden State Warriors
+  Philadelphia 76ers @ Los Angeles Clippers
+  Boston Celtics @ Minnesota Timberwolves
+  Portland Trail Blazers @ New York Knicks
+Day 127:
+  Portland Trail Blazers @ Milwaukee Bucks
+Day 128:
+  Miami Heat @ Dallas Mavericks
+  Cleveland Cavaliers @ Toronto Raptors
+Day 129:
+  Orlando Magic @ Detroit Pistons
+  Memphis Grizzlies @ Los Angeles Clippers
+  Utah Jazz @ Miami Heat
+  Portland Trail Blazers @ Milwaukee Bucks
+  Toronto Raptors @ Minnesota Timberwolves
+Day 130:
+  Milwaukee Bucks @ Dallas Mavericks
+  Toronto Raptors @ Memphis Grizzlies
+  Cleveland Cavaliers @ Washington Wizards
+Day 131:
+  Houston Rockets @ Golden State Warriors
+  New York Knicks @ Los Angeles Clippers
+  Utah Jazz @ Memphis Grizzlies
+Day 132:
+  Milwaukee Bucks @ Golden State Warriors
+  Phoenix Suns @ Minnesota Timberwolves
+  Utah Jazz @ New Orleans Pelicans
+  Dallas Mavericks @ Philadelphia 76ers
+Day 133:
+  Detroit Pistons @ Brooklyn Nets
+  Orlando Magic @ Miami Heat
+  Toronto Raptors @ Milwaukee Bucks
+  Boston Celtics @ New York Knicks
+  Houston Rockets @ Utah Jazz
+Day 134:
+  Philadelphia 76ers @ Golden State Warriors
+  Oklahoma City Thunder @ Memphis Grizzlies
+  Phoenix Suns @ New Orleans Pelicans
+  Dallas Mavericks @ Sacramento Kings
+Day 135:
+  Indiana Pacers @ Dallas Mavericks
+  Golden State Warriors @ Detroit Pistons
+  Toronto Raptors @ Milwaukee Bucks
+  Portland Trail Blazers @ Minnesota Timberwolves
+  Charlotte Hornets @ New York Knicks
+  Houston Rockets @ Utah Jazz
+  Philadelphia 76ers @ Washington Wizards
+Day 136:
+  Oklahoma City Thunder @ Miami Heat
+  Brooklyn Nets @ New Orleans Pelicans
+  Philadelphia 76ers @ Orlando Magic
+  Charlotte Hornets @ Phoenix Suns
+  Denver Nuggets @ Sacramento Kings
+  Chicago Bulls @ Utah Jazz
+Day 137:
+  Brooklyn Nets @ Boston Celtics
+  Detroit Pistons @ Chicago Bulls
+  Minnesota Timberwolves @ Los Angeles Clippers
+  New York Knicks @ Milwaukee Bucks
+  Dallas Mavericks @ Portland Trail Blazers
+  Golden State Warriors @ Washington Wizards
+Day 138:
+  Washington Wizards @ Minnesota Timberwolves
+  Brooklyn Nets @ Oklahoma City Thunder
+  Portland Trail Blazers @ Orlando Magic
+  Chicago Bulls @ Philadelphia 76ers
+  Atlanta Hawks @ Phoenix Suns
+  Charlotte Hornets @ Sacramento Kings
+  Cleveland Cavaliers @ San Antonio Spurs
+  Los Angeles Lakers @ Utah Jazz
+Day 139:
+  Los Angeles Lakers @ Boston Celtics
+  Washington Wizards @ Chicago Bulls
+  Miami Heat @ Denver Nuggets
+  Milwaukee Bucks @ Indiana Pacers
+  Orlando Magic @ Los Angeles Clippers
+  Philadelphia 76ers @ Memphis Grizzlies
+  Portland Trail Blazers @ New Orleans Pelicans
+  Atlanta Hawks @ New York Knicks
+  Toronto Raptors @ Oklahoma City Thunder
+  Golden State Warriors @ San Antonio Spurs
+Day 140:
+  Memphis Grizzlies @ Atlanta Hawks
+  Miami Heat @ Boston Celtics
+  New Orleans Pelicans @ Chicago Bulls
+  New York Knicks @ Detroit Pistons
+  Oklahoma City Thunder @ Golden State Warriors
+  Los Angeles Clippers @ Houston Rockets
+  Portland Trail Blazers @ Indiana Pacers
+  Minnesota Timberwolves @ Los Angeles Lakers
+  Charlotte Hornets @ Orlando Magic
+  Cleveland Cavaliers @ Philadelphia 76ers
+  Utah Jazz @ Phoenix Suns
+  Brooklyn Nets @ Sacramento Kings
+  Dallas Mavericks @ Toronto Raptors
+  Denver Nuggets @ Washington Wizards
+ALL-STAR BREAK BEGINS (No games for the next week)
+ALL-STAR BREAK ENDS (No games for the past week)
+Day 141:
+  Washington Wizards @ Boston Celtics
+  New Orleans Pelicans @ Charlotte Hornets
+  Philadelphia 76ers @ Cleveland Cavaliers
+  Los Angeles Lakers @ Dallas Mavericks
+  Atlanta Hawks @ Detroit Pistons
+  San Antonio Spurs @ Indiana Pacers
+  Golden State Warriors @ Los Angeles Clippers
+  Chicago Bulls @ Memphis Grizzlies
+  Houston Rockets @ Miami Heat
+  Brooklyn Nets @ Minnesota Timberwolves
+  Milwaukee Bucks @ Oklahoma City Thunder
+  New York Knicks @ Orlando Magic
+  Sacramento Kings @ Toronto Raptors
+  Portland Trail Blazers @ Utah Jazz
+Day 142:
+  Denver Nuggets @ Phoenix Suns
+Day 143:
+  Detroit Pistons @ Boston Celtics
+  Chicago Bulls @ Charlotte Hornets
+  Toronto Raptors @ Cleveland Cavaliers
+  Milwaukee Bucks @ Dallas Mavericks
+  Portland Trail Blazers @ Golden State Warriors
+  New Orleans Pelicans @ Houston Rockets
+  Indiana Pacers @ Los Angeles Clippers
+  Brooklyn Nets @ Memphis Grizzlies
+  Oklahoma City Thunder @ Miami Heat
+  Washington Wizards @ New York Knicks
+  Los Angeles Lakers @ Philadelphia 76ers
+  Orlando Magic @ Utah Jazz
+Day 144:
+  Denver Nuggets @ Miami Heat
+  Toronto Raptors @ Minnesota Timberwolves
+  Phoenix Suns @ San Antonio Spurs
+Day 145:
+  Boston Celtics @ Charlotte Hornets
+  Milwaukee Bucks @ Chicago Bulls
+  Atlanta Hawks @ Dallas Mavericks
+  Golden State Warriors @ Houston Rockets
+  Los Angeles Lakers @ Indiana Pacers
+  Orlando Magic @ Los Angeles Clippers
+  New Orleans Pelicans @ Memphis Grizzlies
+  Denver Nuggets @ Oklahoma City Thunder
+  New York Knicks @ Philadelphia 76ers
+  Portland Trail Blazers @ Sacramento Kings
+  Detroit Pistons @ Utah Jazz
+  Brooklyn Nets @ Washington Wizards
+Day 146:
+  San Antonio Spurs @ Brooklyn Nets
+  Miami Heat @ Orlando Magic
+  Minnesota Timberwolves @ Phoenix Suns
+Day 147:
+  Milwaukee Bucks @ Charlotte Hornets
+  Los Angeles Lakers @ Cleveland Cavaliers
+  Golden State Warriors @ Indiana Pacers
+  Portland Trail Blazers @ Los Angeles Clippers
+  Toronto Raptors @ Memphis Grizzlies
+  Dallas Mavericks @ Miami Heat
+  San Antonio Spurs @ Minnesota Timberwolves
+  New York Knicks @ Oklahoma City Thunder
+  Denver Nuggets @ Philadelphia 76ers
+  Detroit Pistons @ Sacramento Kings
+  Boston Celtics @ Utah Jazz
+  New Orleans Pelicans @ Washington Wizards
+Day 148:
+  Orlando Magic @ Brooklyn Nets
+  Los Angeles Lakers @ Chicago Bulls
+  Detroit Pistons @ Denver Nuggets
+  Washington Wizards @ Memphis Grizzlies
+  San Antonio Spurs @ Philadelphia 76ers
+  Oklahoma City Thunder @ Portland Trail Blazers
+  Los Angeles Clippers @ Sacramento Kings
+Day 149:
+  Phoenix Suns @ Charlotte Hornets
+  Oklahoma City Thunder @ Chicago Bulls
+  Milwaukee Bucks @ Cleveland Cavaliers
+  Minnesota Timberwolves @ Indiana Pacers
+  Houston Rockets @ Los Angeles Clippers
+  San Antonio Spurs @ Miami Heat
+  Atlanta Hawks @ New Orleans Pelicans
+  Golden State Warriors @ New York Knicks
+  Utah Jazz @ Washington Wizards
+Day 150:
+  Portland Trail Blazers @ Indiana Pacers
+  Detroit Pistons @ Memphis Grizzlies
+  Philadelphia 76ers @ Milwaukee Bucks
+  Los Angeles Lakers @ Sacramento Kings
+  New Orleans Pelicans @ San Antonio Spurs
+  Toronto Raptors @ Washington Wizards
+Day 151:
+  Boston Celtics @ Atlanta Hawks
+  Los Angeles Clippers @ Denver Nuggets
+  Houston Rockets @ Minnesota Timberwolves
+  Chicago Bulls @ New York Knicks
+  Cleveland Cavaliers @ Orlando Magic
+  Oklahoma City Thunder @ Phoenix Suns
+  Sacramento Kings @ Utah Jazz
+Day 152:
+  Detroit Pistons @ Brooklyn Nets
+  San Antonio Spurs @ Dallas Mavericks
+  Charlotte Hornets @ Indiana Pacers
+  Utah Jazz @ Los Angeles Lakers
+  Miami Heat @ Minnesota Timberwolves
+  Philadelphia 76ers @ New Orleans Pelicans
+  Milwaukee Bucks @ Orlando Magic
+  Denver Nuggets @ Portland Trail Blazers
+  Houston Rockets @ Toronto Raptors
+Day 153:
+  San Antonio Spurs @ Atlanta Hawks
+  Cleveland Cavaliers @ Chicago Bulls
+  Memphis Grizzlies @ Houston Rockets
+  Los Angeles Lakers @ Los Angeles Clippers
+  Boston Celtics @ New York Knicks
+  Utah Jazz @ Oklahoma City Thunder
+  Golden State Warriors @ Philadelphia 76ers
+  Phoenix Suns @ Sacramento Kings
+Day 154:
+  Miami Heat @ Brooklyn Nets
+  Indiana Pacers @ Chicago Bulls
+  Golden State Warriors @ Orlando Magic
+  Milwaukee Bucks @ Portland Trail Blazers
+  Minnesota Timberwolves @ Utah Jazz
+  Dallas Mavericks @ Washington Wizards
+Day 155:
+  Phoenix Suns @ Atlanta Hawks
+  San Antonio Spurs @ Boston Celtics
+  Philadelphia 76ers @ Charlotte Hornets
+  New York Knicks @ Denver Nuggets
+  New Orleans Pelicans @ Los Angeles Clippers
+  Milwaukee Bucks @ Los Angeles Lakers
+  Memphis Grizzlies @ Oklahoma City Thunder
+  Detroit Pistons @ Orlando Magic
+  Golden State Warriors @ Sacramento Kings
+Day 156:
+  Toronto Raptors @ Brooklyn Nets
+  Dallas Mavericks @ Chicago Bulls
+  Boston Celtics @ Golden State Warriors
+  Cleveland Cavaliers @ Indiana Pacers
+  Minnesota Timberwolves @ Los Angeles Lakers
+  New York Knicks @ Milwaukee Bucks
+  Houston Rockets @ Portland Trail Blazers
+Day 157:
+  Brooklyn Nets @ Charlotte Hornets
+  Phoenix Suns @ Miami Heat
+  Oklahoma City Thunder @ Minnesota Timberwolves
+  New York Knicks @ New Orleans Pelicans
+  Denver Nuggets @ Orlando Magic
+  Atlanta Hawks @ Philadelphia 76ers
+  San Antonio Spurs @ Sacramento Kings
+  Detroit Pistons @ Washington Wizards
+Day 158:
+  Utah Jazz @ Chicago Bulls
+  Atlanta Hawks @ Golden State Warriors
+  Boston Celtics @ Los Angeles Clippers
+  Memphis Grizzlies @ Los Angeles Lakers
+  San Antonio Spurs @ Toronto Raptors
+Day 159:
+  Washington Wizards @ Charlotte Hornets
+  Miami Heat @ Cleveland Cavaliers
+  Oklahoma City Thunder @ Detroit Pistons
+  Houston Rockets @ Indiana Pacers
+  Chicago Bulls @ New Orleans Pelicans
+  Dallas Mavericks @ Phoenix Suns
+  Atlanta Hawks @ Portland Trail Blazers
+  New York Knicks @ San Antonio Spurs
+Day 160:
+  Philadelphia 76ers @ Boston Celtics
+  Miami Heat @ Chicago Bulls
+  Memphis Grizzlies @ Denver Nuggets
+  Dallas Mavericks @ Golden State Warriors
+  Brooklyn Nets @ Milwaukee Bucks
+  Minnesota Timberwolves @ New York Knicks
+  Atlanta Hawks @ Orlando Magic
+  Los Angeles Clippers @ Phoenix Suns
+Day 161:
+  Utah Jazz @ Dallas Mavericks
+  Indiana Pacers @ Detroit Pistons
+  Charlotte Hornets @ Golden State Warriors
+  Boston Celtics @ Houston Rockets
+  Portland Trail Blazers @ Los Angeles Lakers
+  Los Angeles Clippers @ San Antonio Spurs
+  Chicago Bulls @ Toronto Raptors
+  Cleveland Cavaliers @ Washington Wizards
+Day 162:
+  Denver Nuggets @ Atlanta Hawks
+  Dallas Mavericks @ Houston Rockets
+  Orlando Magic @ Memphis Grizzlies
+  Minnesota Timberwolves @ Milwaukee Bucks
+  Sacramento Kings @ New York Knicks
+  Brooklyn Nets @ Utah Jazz
+  Philadelphia 76ers @ Washington Wizards
+Day 163:
+  Portland Trail Blazers @ Chicago Bulls
+  Golden State Warriors @ Cleveland Cavaliers
+  Miami Heat @ Detroit Pistons
+  Charlotte Hornets @ Los Angeles Clippers
+  Boston Celtics @ New Orleans Pelicans
+  Los Angeles Lakers @ Orlando Magic
+  Brooklyn Nets @ Phoenix Suns
+  Oklahoma City Thunder @ San Antonio Spurs
+  Milwaukee Bucks @ Toronto Raptors
+Day 164:
+  Houston Rockets @ Atlanta Hawks
+  Sacramento Kings @ Cleveland Cavaliers
+  New York Knicks @ Dallas Mavericks
+  Orlando Magic @ Indiana Pacers
+  Golden State Warriors @ Memphis Grizzlies
+  Philadelphia 76ers @ Toronto Raptors
+Day 165:
+  Los Angeles Lakers @ Boston Celtics
+  Chicago Bulls @ Brooklyn Nets
+  Charlotte Hornets @ Detroit Pistons
+  Orlando Magic @ New Orleans Pelicans
+  Los Angeles Clippers @ Utah Jazz
+Day 166:
+  Houston Rockets @ Cleveland Cavaliers
+  Washington Wizards @ Golden State Warriors
+  Memphis Grizzlies @ New York Knicks
+  Sacramento Kings @ Philadelphia 76ers
+  Milwaukee Bucks @ San Antonio Spurs
+  Denver Nuggets @ Toronto Raptors
+Day 167:
+  Chicago Bulls @ Atlanta Hawks
+  Oklahoma City Thunder @ Brooklyn Nets
+  Orlando Magic @ Charlotte Hornets
+  Dallas Mavericks @ Denver Nuggets
+  Minnesota Timberwolves @ Detroit Pistons
+  Memphis Grizzlies @ Indiana Pacers
+  Utah Jazz @ New Orleans Pelicans
+Day 168:
+  Philadelphia 76ers @ Los Angeles Clippers
+  Phoenix Suns @ Los Angeles Lakers
+  Washington Wizards @ Milwaukee Bucks
+  Brooklyn Nets @ Sacramento Kings
+  Houston Rockets @ San Antonio Spurs
+  Miami Heat @ Toronto Raptors
+Day 169:
+  Atlanta Hawks @ Charlotte Hornets
+  Denver Nuggets @ Cleveland Cavaliers
+  Minnesota Timberwolves @ Golden State Warriors
+  Toronto Raptors @ New Orleans Pelicans
+  Indiana Pacers @ New York Knicks
+  Dallas Mavericks @ Oklahoma City Thunder
+  Boston Celtics @ Orlando Magic
+  Memphis Grizzlies @ Portland Trail Blazers
+  Philadelphia 76ers @ Utah Jazz
+Day 170:
+  Los Angeles Lakers @ Brooklyn Nets
+  Indiana Pacers @ Denver Nuggets
+  Atlanta Hawks @ Los Angeles Clippers
+  Miami Heat @ Milwaukee Bucks
+  Houston Rockets @ Philadelphia 76ers
+Day 171:
+  Chicago Bulls @ Golden State Warriors
+  Cleveland Cavaliers @ Memphis Grizzlies
+  Detroit Pistons @ New Orleans Pelicans
+  Toronto Raptors @ New York Knicks
+  Orlando Magic @ Oklahoma City Thunder
+  Washington Wizards @ Portland Trail Blazers
+  Minnesota Timberwolves @ Sacramento Kings
+  Charlotte Hornets @ San Antonio Spurs
+Day 172:
+  Toronto Raptors @ Atlanta Hawks
+  Cleveland Cavaliers @ Dallas Mavericks
+  Washington Wizards @ Denver Nuggets
+  Los Angeles Clippers @ Milwaukee Bucks
+  Utah Jazz @ New York Knicks
+  Miami Heat @ Philadelphia 76ers
+  Detroit Pistons @ Phoenix Suns
+  Indiana Pacers @ Sacramento Kings
+Day 173:
+  Los Angeles Clippers @ Brooklyn Nets
+  Portland Trail Blazers @ Cleveland Cavaliers
+  Oklahoma City Thunder @ Golden State Warriors
+  San Antonio Spurs @ Los Angeles Lakers
+  Orlando Magic @ Minnesota Timberwolves
+  Memphis Grizzlies @ Phoenix Suns
+  New Orleans Pelicans @ Sacramento Kings
+Day 174:
+  Dallas Mavericks @ Boston Celtics
+  Utah Jazz @ Denver Nuggets
+  Washington Wizards @ Houston Rockets
+  Miami Heat @ Indiana Pacers
+  Detroit Pistons @ Milwaukee Bucks
+  Charlotte Hornets @ New York Knicks
+  New Orleans Pelicans @ Phoenix Suns
+  Philadelphia 76ers @ Portland Trail Blazers
+Day 175:
+  Sacramento Kings @ Atlanta Hawks
+  Los Angeles Clippers @ Detroit Pistons
+  Phoenix Suns @ Golden State Warriors
+  Brooklyn Nets @ Houston Rockets
+  Boston Celtics @ Minnesota Timberwolves
+  Philadelphia 76ers @ Oklahoma City Thunder
+  Memphis Grizzlies @ San Antonio Spurs
+Day 176:
+  Minnesota Timberwolves @ Chicago Bulls
+  Houston Rockets @ Denver Nuggets
+  Sacramento Kings @ Memphis Grizzlies
+  Charlotte Hornets @ Miami Heat
+  Indiana Pacers @ Milwaukee Bucks
+  Cleveland Cavaliers @ New York Knicks
+  Phoenix Suns @ Portland Trail Blazers
+  Toronto Raptors @ Utah Jazz
+Day 177:
+  Dallas Mavericks @ Detroit Pistons
+  Atlanta Hawks @ Oklahoma City Thunder
+  Washington Wizards @ San Antonio Spurs
+Day 178:
+  Sacramento Kings @ Boston Celtics
+  Houston Rockets @ Charlotte Hornets
+  Denver Nuggets @ Chicago Bulls
+  Los Angeles Clippers @ Cleveland Cavaliers
+  Utah Jazz @ Golden State Warriors
+  New York Knicks @ Los Angeles Lakers
+  Minnesota Timberwolves @ Memphis Grizzlies
+  Miami Heat @ New Orleans Pelicans
+  Indiana Pacers @ Philadelphia 76ers
+  Brooklyn Nets @ Portland Trail Blazers
+  Phoenix Suns @ Toronto Raptors
+Day 179:
+  Cleveland Cavaliers @ Atlanta Hawks
+  Brooklyn Nets @ Dallas Mavericks
+  Chicago Bulls @ Detroit Pistons
+  Orlando Magic @ Washington Wizards
+Day 180:
+  Boston Celtics @ Chicago Bulls
+  Golden State Warriors @ Denver Nuggets
+  Phoenix Suns @ Houston Rockets
+  Charlotte Hornets @ Los Angeles Lakers
+  Utah Jazz @ Memphis Grizzlies
+  Portland Trail Blazers @ Minnesota Timberwolves
+  Los Angeles Clippers @ Oklahoma City Thunder
+Day 181:
+  Atlanta Hawks @ Brooklyn Nets
+  Cleveland Cavaliers @ Detroit Pistons
+  Portland Trail Blazers @ Miami Heat
+  Sacramento Kings @ Milwaukee Bucks
+  Indiana Pacers @ New Orleans Pelicans
+Day 182:
+  Los Angeles Clippers @ Dallas Mavericks
+  Chicago Bulls @ Houston Rockets
+  Denver Nuggets @ Los Angeles Lakers
+  Charlotte Hornets @ Oklahoma City Thunder
+  Boston Celtics @ Toronto Raptors
+  Phoenix Suns @ Washington Wizards
+Day 183:
+  Indiana Pacers @ Boston Celtics
+  Atlanta Hawks @ Miami Heat
+  New Orleans Pelicans @ Oklahoma City Thunder
+  Denver Nuggets @ Sacramento Kings
+  Milwaukee Bucks @ Utah Jazz
+Day 184:
+  Memphis Grizzlies @ Boston Celtics
+  Charlotte Hornets @ Cleveland Cavaliers
+  Toronto Raptors @ Detroit Pistons
+  Dallas Mavericks @ Minnesota Timberwolves
+  Sacramento Kings @ Orlando Magic
+  Chicago Bulls @ Philadelphia 76ers
+  San Antonio Spurs @ Portland Trail Blazers
+Day 185:
+  Indiana Pacers @ Brooklyn Nets
+  Toronto Raptors @ Dallas Mavericks
+  Los Angeles Lakers @ Golden State Warriors
+  Oklahoma City Thunder @ Houston Rockets
+  New Orleans Pelicans @ Milwaukee Bucks
+  Phoenix Suns @ Utah Jazz
+  Miami Heat @ Washington Wizards
+Day 186:
+  Cleveland Cavaliers @ Boston Celtics
+  Orlando Magic @ Dallas Mavericks
+  Charlotte Hornets @ Minnesota Timberwolves
+  Portland Trail Blazers @ Toronto Raptors
+  Sacramento Kings @ Washington Wizards
+Day 187:
+  Indiana Pacers @ Atlanta Hawks
+  Philadelphia 76ers @ Detroit Pistons
+  New Orleans Pelicans @ Los Angeles Lakers
+  Utah Jazz @ Miami Heat
+  New York Knicks @ Phoenix Suns
+Day 188:
+  Washington Wizards @ Atlanta Hawks
+  Portland Trail Blazers @ Boston Celtics
+  Cleveland Cavaliers @ Brooklyn Nets
+  Memphis Grizzlies @ Dallas Mavericks
+  Milwaukee Bucks @ Denver Nuggets
+  New York Knicks @ Houston Rockets
+  Oklahoma City Thunder @ Los Angeles Lakers
+  Los Angeles Clippers @ Miami Heat
+  New Orleans Pelicans @ Minnesota Timberwolves
+  Orlando Magic @ Phoenix Suns
+  Golden State Warriors @ San Antonio Spurs
+  Charlotte Hornets @ Toronto Raptors
+Day 189:
+Day 190:
+  Utah Jazz @ Atlanta Hawks
+  Oklahoma City Thunder @ Boston Celtics
+  Dallas Mavericks @ Charlotte Hornets
+  Brooklyn Nets @ Denver Nuggets
+  Sacramento Kings @ Houston Rockets
+  Washington Wizards @ Indiana Pacers
+  Toronto Raptors @ Los Angeles Clippers
+  Los Angeles Lakers @ Miami Heat
+  Memphis Grizzlies @ Milwaukee Bucks
+  Golden State Warriors @ New Orleans Pelicans
+  Chicago Bulls @ Orlando Magic
+  Minnesota Timberwolves @ Philadelphia 76ers
+  Cleveland Cavaliers @ Phoenix Suns
+  New York Knicks @ Portland Trail Blazers
+  Detroit Pistons @ San Antonio Spurs
