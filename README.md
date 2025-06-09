@@ -26,7 +26,7 @@ The optimization is performed using **Google OR-Tools Constraint Programming** f
 
 - `NBA_Scheduling.ipynb`: Jupyter notebook containing all implementation code
 - `final_solution.txt`: Final feasible 82-game schedule output (one file with each game day’s matchups)
-- `OR2_FinalProject_GroupF.pdf`: Full academic paper detailing our methodology, motivation, and results
+- `OR2_FinalProject_GroupF.pdf`: Full paper detailing our methodology, motivation, and results
 
 ## 📊 Mathematical Formulation
 
